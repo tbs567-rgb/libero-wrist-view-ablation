@@ -1,0 +1,50 @@
+{
+ "task2|single|s1": {
+  "succ": 28,
+  "n": 50,
+  "rate": 56.0,
+  "render": 256
+ },
+ "task2|single|s2": {
+  "succ": 20,
+  "n": 50,
+  "rate": 40.0,
+  "render": 256
+ },
+ "task2|dual|s1": {
+  "succ": 50,
+  "n": 50,
+  "rate": 100.0,
+  "render": 256
+ },
+ "task2|dual|s2": {
+  "succ": 50,
+  "n": 50,
+  "rate": 100.0,
+  "render": 256
+ },
+ "task7|single|s1": {
+  "succ": 1,
+  "n": 50,
+  "rate": 2.0,
+  "render": 256
+ },
+ "task7|single|s2": {
+  "succ": 22,
+  "n": 50,
+  "rate": 44.0,
+  "render": 256
+ },
+ "task7|dual|s1": {
+  "succ": 41,
+  "n": 50,
+  "rate": 82.0,
+  "render": 256
+ },
+ "task7|dual|s2": {
+  "succ": 49,
+  "n": 50,
+  "rate": 98.0,
+  "render": 256
+ }
+}

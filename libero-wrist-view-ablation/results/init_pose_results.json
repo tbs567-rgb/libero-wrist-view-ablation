@@ -1,0 +1,12602 @@
+[
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 0,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0635,
+   0.2021
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0534,
+   0.2052
+  ],
+  "d_goal": 0.1169,
+  "d_eef": 0.3335
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 1,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0643,
+   0.197
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0613,
+   0.1951
+  ],
+  "d_goal": 0.1256,
+  "d_eef": 0.3371
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 2,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0472,
+   0.1994
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0504,
+   0.2079
+  ],
+  "d_goal": 0.098,
+  "d_eef": 0.3372
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 3,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0472,
+   0.2011
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.064,
+   0.1943
+  ],
+  "d_goal": 0.1114,
+  "d_eef": 0.3374
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 4,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0405,
+   0.186
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0686,
+   0.1938
+  ],
+  "d_goal": 0.1094,
+  "d_eef": 0.3138
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 5,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.043,
+   0.2142
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0632,
+   0.2027
+  ],
+  "d_goal": 0.1068,
+  "d_eef": 0.3396
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 6,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0503,
+   0.1863
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0629,
+   0.1985
+  ],
+  "d_goal": 0.1138,
+  "d_eef": 0.3154
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 7,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0473,
+   0.1862
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0677,
+   0.2131
+  ],
+  "d_goal": 0.1181,
+  "d_eef": 0.3317
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 8,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0618,
+   0.2011
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0749,
+   0.2077
+  ],
+  "d_goal": 0.1369,
+  "d_eef": 0.3318
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 9,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0457,
+   0.2011
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0685,
+   0.199
+  ],
+  "d_goal": 0.1142,
+  "d_eef": 0.3366
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 10,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0552,
+   0.2055
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0518,
+   0.1875
+  ],
+  "d_goal": 0.1084,
+  "d_eef": 0.334
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 11,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0579,
+   0.2107
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.066,
+   0.2082
+  ],
+  "d_goal": 0.124,
+  "d_eef": 0.3228
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 12,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0556,
+   0.1887
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0682,
+   0.2001
+  ],
+  "d_goal": 0.1243,
+  "d_eef": 0.3214
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 13,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.046,
+   0.2093
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0582,
+   0.1916
+  ],
+  "d_goal": 0.1057,
+  "d_eef": 0.3504
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 14,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.044,
+   0.1921
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0581,
+   0.2063
+  ],
+  "d_goal": 0.103,
+  "d_eef": 0.3394
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 15,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0496,
+   0.1904
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0648,
+   0.1999
+  ],
+  "d_goal": 0.1148,
+  "d_eef": 0.3146
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 16,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0526,
+   0.1979
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0747,
+   0.1872
+  ],
+  "d_goal": 0.1278,
+  "d_eef": 0.3283
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 17,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0524,
+   0.2089
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0617,
+   0.2115
+  ],
+  "d_goal": 0.1141,
+  "d_eef": 0.3204
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 18,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0359,
+   0.1876
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0606,
+   0.1934
+  ],
+  "d_goal": 0.0967,
+  "d_eef": 0.3418
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 19,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0354,
+   0.186
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0725,
+   0.2051
+  ],
+  "d_goal": 0.1095,
+  "d_eef": 0.3271
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 20,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.049,
+   0.2148
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0723,
+   0.2077
+  ],
+  "d_goal": 0.1215,
+  "d_eef": 0.3456
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 21,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.055,
+   0.2022
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0741,
+   0.1897
+  ],
+  "d_goal": 0.1297,
+  "d_eef": 0.3206
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 22,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0542,
+   0.2073
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0741,
+   0.2088
+  ],
+  "d_goal": 0.1283,
+  "d_eef": 0.3377
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 23,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0628,
+   0.1988
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0496,
+   0.2106
+  ],
+  "d_goal": 0.113,
+  "d_eef": 0.3148
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 24,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0564,
+   0.2024
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0461,
+   0.2036
+  ],
+  "d_goal": 0.1026,
+  "d_eef": 0.318
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 25,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.046,
+   0.2019
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0631,
+   0.2108
+  ],
+  "d_goal": 0.1095,
+  "d_eef": 0.3197
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 26,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0391,
+   0.1973
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0649,
+   0.1942
+  ],
+  "d_goal": 0.104,
+  "d_eef": 0.3384
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 27,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.047,
+   0.1882
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0533,
+   0.1948
+  ],
+  "d_goal": 0.1005,
+  "d_eef": 0.3386
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 28,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0588,
+   0.2037
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0637,
+   0.2025
+  ],
+  "d_goal": 0.1225,
+  "d_eef": 0.3203
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 29,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0452,
+   0.2054
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0639,
+   0.1981
+  ],
+  "d_goal": 0.1093,
+  "d_eef": 0.3242
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 30,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0503,
+   0.2072
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0733,
+   0.2002
+  ],
+  "d_goal": 0.1238,
+  "d_eef": 0.337
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 31,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0481,
+   0.2008
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0614,
+   0.1956
+  ],
+  "d_goal": 0.1096,
+  "d_eef": 0.3349
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 32,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0541,
+   0.1982
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0745,
+   0.2051
+  ],
+  "d_goal": 0.1288,
+  "d_eef": 0.3433
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 33,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.051,
+   0.2126
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0749,
+   0.1935
+  ],
+  "d_goal": 0.1273,
+  "d_eef": 0.3352
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 34,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0623,
+   0.2071
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0536,
+   0.1893
+  ],
+  "d_goal": 0.1173,
+  "d_eef": 0.3239
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 35,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0531,
+   0.2081
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.068,
+   0.1897
+  ],
+  "d_goal": 0.1225,
+  "d_eef": 0.3418
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 36,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0538,
+   0.213
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.069,
+   0.2012
+  ],
+  "d_goal": 0.1233,
+  "d_eef": 0.3327
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 37,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0532,
+   0.1966
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0734,
+   0.1954
+  ],
+  "d_goal": 0.1266,
+  "d_eef": 0.3307
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 38,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0611,
+   0.2125
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0574,
+   0.1893
+  ],
+  "d_goal": 0.1207,
+  "d_eef": 0.3333
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 39,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0644,
+   0.199
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0618,
+   0.185
+  ],
+  "d_goal": 0.127,
+  "d_eef": 0.3128
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 40,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.063,
+   0.2128
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0571,
+   0.1947
+  ],
+  "d_goal": 0.1214,
+  "d_eef": 0.3232
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 41,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0616,
+   0.1855
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0466,
+   0.1897
+  ],
+  "d_goal": 0.1083,
+  "d_eef": 0.3125
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 42,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0363,
+   0.1945
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0675,
+   0.2042
+  ],
+  "d_goal": 0.1043,
+  "d_eef": 0.3286
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 43,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0637,
+   0.2024
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0701,
+   0.1945
+  ],
+  "d_goal": 0.1341,
+  "d_eef": 0.3138
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 44,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0513,
+   0.2001
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0644,
+   0.1936
+  ],
+  "d_goal": 0.1158,
+  "d_eef": 0.3117
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 45,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0575,
+   0.1892
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0606,
+   0.1892
+  ],
+  "d_goal": 0.1181,
+  "d_eef": 0.3182
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 46,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0586,
+   0.186
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0562,
+   0.208
+  ],
+  "d_goal": 0.1168,
+  "d_eef": 0.3177
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 47,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0436,
+   0.2088
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0651,
+   0.1872
+  ],
+  "d_goal": 0.1108,
+  "d_eef": 0.3413
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 48,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0612,
+   0.2116
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0688,
+   0.1852
+  ],
+  "d_goal": 0.1327,
+  "d_eef": 0.322
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 0,
+  "init": 49,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0608,
+   0.1879
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0573,
+   0.2125
+  ],
+  "d_goal": 0.1206,
+  "d_eef": 0.3042
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 0,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1949,
+   0.3153
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0698,
+   0.1882
+  ],
+  "d_goal": 0.2936,
+  "d_eef": 0.3787
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 1,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1653,
+   0.3132
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0567,
+   0.1976
+  ],
+  "d_goal": 0.2502,
+  "d_eef": 0.3558
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 2,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1769,
+   0.3084
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0462,
+   0.2038
+  ],
+  "d_goal": 0.2464,
+  "d_eef": 0.3839
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 3,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.186,
+   0.3323
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.055,
+   0.1947
+  ],
+  "d_goal": 0.2776,
+  "d_eef": 0.3615
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 4,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1704,
+   0.3336
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0468,
+   0.1925
+  ],
+  "d_goal": 0.259,
+  "d_eef": 0.4109
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 5,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1841,
+   0.3148
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0555,
+   0.1892
+  ],
+  "d_goal": 0.2704,
+  "d_eef": 0.359
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 6,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1651,
+   0.3084
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.057,
+   0.2018
+  ],
+  "d_goal": 0.2464,
+  "d_eef": 0.3796
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 7,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1855,
+   0.3327
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0657,
+   0.1896
+  ],
+  "d_goal": 0.2891,
+  "d_eef": 0.3927
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 8,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1873,
+   0.3239
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0726,
+   0.2042
+  ],
+  "d_goal": 0.2862,
+  "d_eef": 0.3668
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 9,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.1831,
+   0.3202
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0481,
+   0.2005
+  ],
+  "d_goal": 0.2603,
+  "d_eef": 0.3863
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 10,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.175,
+   0.3137
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0506,
+   0.2006
+  ],
+  "d_goal": 0.2524,
+  "d_eef": 0.3867
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 11,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1652,
+   0.3121
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.052,
+   0.1851
+  ],
+  "d_goal": 0.2516,
+  "d_eef": 0.3608
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 12,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1654,
+   0.3334
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0523,
+   0.1907
+  ],
+  "d_goal": 0.2603,
+  "d_eef": 0.3871
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 13,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.1714,
+   0.3319
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0558,
+   0.2007
+  ],
+  "d_goal": 0.2624,
+  "d_eef": 0.3845
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 14,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1659,
+   0.3321
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0559,
+   0.2064
+  ],
+  "d_goal": 0.2549,
+  "d_eef": 0.4069
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 15,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1674,
+   0.3216
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0638,
+   0.1871
+  ],
+  "d_goal": 0.2675,
+  "d_eef": 0.3636
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 16,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1805,
+   0.3314
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.045,
+   0.205
+  ],
+  "d_goal": 0.2586,
+  "d_eef": 0.3783
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 17,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1775,
+   0.3131
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0628,
+   0.213
+  ],
+  "d_goal": 0.2604,
+  "d_eef": 0.3612
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 18,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1853,
+   0.3098
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0571,
+   0.1943
+  ],
+  "d_goal": 0.2685,
+  "d_eef": 0.3754
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 19,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1815,
+   0.3188
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0623,
+   0.1947
+  ],
+  "d_goal": 0.2735,
+  "d_eef": 0.3885
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 20,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1912,
+   0.3266
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0499,
+   0.1867
+  ],
+  "d_goal": 0.2787,
+  "d_eef": 0.4011
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 21,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1769,
+   0.3136
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0525,
+   0.1965
+  ],
+  "d_goal": 0.2575,
+  "d_eef": 0.3656
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 22,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.181,
+   0.3323
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0742,
+   0.2002
+  ],
+  "d_goal": 0.2874,
+  "d_eef": 0.3938
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 23,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1918,
+   0.3316
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0566,
+   0.209
+  ],
+  "d_goal": 0.277,
+  "d_eef": 0.391
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 24,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1718,
+   0.327
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0696,
+   0.1866
+  ],
+  "d_goal": 0.2792,
+  "d_eef": 0.3969
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 25,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1946,
+   0.3276
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0555,
+   0.1987
+  ],
+  "d_goal": 0.2814,
+  "d_eef": 0.3685
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 26,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1656,
+   0.3147
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0476,
+   0.1906
+  ],
+  "d_goal": 0.2467,
+  "d_eef": 0.3761
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 27,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1925,
+   0.322
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0457,
+   0.2092
+  ],
+  "d_goal": 0.2636,
+  "d_eef": 0.3834
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 28,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1827,
+   0.3198
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0633,
+   0.1913
+  ],
+  "d_goal": 0.2776,
+  "d_eef": 0.3748
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 29,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1652,
+   0.326
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0557,
+   0.2093
+  ],
+  "d_goal": 0.2499,
+  "d_eef": 0.3958
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 30,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1848,
+   0.3349
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0698,
+   0.2009
+  ],
+  "d_goal": 0.2877,
+  "d_eef": 0.3796
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 31,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.185,
+   0.3092
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0458,
+   0.2084
+  ],
+  "d_goal": 0.2519,
+  "d_eef": 0.3509
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 32,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1859,
+   0.3237
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0574,
+   0.1886
+  ],
+  "d_goal": 0.2783,
+  "d_eef": 0.3785
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 33,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1822,
+   0.3329
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0567,
+   0.1952
+  ],
+  "d_goal": 0.2758,
+  "d_eef": 0.4102
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 34,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1715,
+   0.3174
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0639,
+   0.1967
+  ],
+  "d_goal": 0.2645,
+  "d_eef": 0.3673
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 35,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1699,
+   0.3293
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0565,
+   0.2032
+  ],
+  "d_goal": 0.2591,
+  "d_eef": 0.3972
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 36,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1777,
+   0.3289
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0484,
+   0.1938
+  ],
+  "d_goal": 0.2634,
+  "d_eef": 0.4003
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 37,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1723,
+   0.3326
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0623,
+   0.1877
+  ],
+  "d_goal": 0.2758,
+  "d_eef": 0.4112
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 38,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1876,
+   0.3212
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0682,
+   0.2131
+  ],
+  "d_goal": 0.2776,
+  "d_eef": 0.3644
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 39,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1946,
+   0.3227
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0596,
+   0.2091
+  ],
+  "d_goal": 0.2784,
+  "d_eef": 0.376
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 40,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1775,
+   0.3145
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0702,
+   0.1888
+  ],
+  "d_goal": 0.2778,
+  "d_eef": 0.3744
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 41,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1657,
+   0.3103
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0675,
+   0.2032
+  ],
+  "d_goal": 0.2566,
+  "d_eef": 0.3657
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 42,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.1863,
+   0.3264
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0592,
+   0.1995
+  ],
+  "d_goal": 0.2764,
+  "d_eef": 0.3908
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 43,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.1711,
+   0.3307
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.057,
+   0.2057
+  ],
+  "d_goal": 0.2601,
+  "d_eef": 0.3893
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 44,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1753,
+   0.3062
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0608,
+   0.2021
+  ],
+  "d_goal": 0.258,
+  "d_eef": 0.3826
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 45,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1937,
+   0.3171
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0724,
+   0.2059
+  ],
+  "d_goal": 0.2884,
+  "d_eef": 0.3925
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 46,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1695,
+   0.3221
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0748,
+   0.197
+  ],
+  "d_goal": 0.2745,
+  "d_eef": 0.3996
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 47,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1836,
+   0.3241
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0581,
+   0.1891
+  ],
+  "d_goal": 0.2768,
+  "d_eef": 0.4063
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 48,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1829,
+   0.3203
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0638,
+   0.1871
+  ],
+  "d_goal": 0.2804,
+  "d_eef": 0.3827
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 1,
+  "init": 49,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1715,
+   0.3169
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0564,
+   0.2091
+  ],
+  "d_goal": 0.2521,
+  "d_eef": 0.377
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 0,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.015
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0716,
+   0.2004
+  ],
+  "d_goal": 0.2364,
+  "d_eef": 0.2581
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 1,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0031
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0677,
+   0.1869
+  ],
+  "d_goal": 0.2377,
+  "d_eef": 0.2463
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 2,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0079
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0547,
+   0.2037
+  ],
+  "d_goal": 0.2349,
+  "d_eef": 0.2452
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 3,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0086
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0538,
+   0.2005
+  ],
+  "d_goal": 0.2312,
+  "d_eef": 0.2379
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 4,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0049
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0743,
+   0.2125
+  ],
+  "d_goal": 0.2637,
+  "d_eef": 0.2433
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 5,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0107
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0647,
+   0.2002
+  ],
+  "d_goal": 0.253,
+  "d_eef": 0.2509
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 6,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0032
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0491,
+   0.1939
+  ],
+  "d_goal": 0.2328,
+  "d_eef": 0.2429
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 7,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0073
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0554,
+   0.1969
+  ],
+  "d_goal": 0.2422,
+  "d_eef": 0.244
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 8,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0142
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.061,
+   0.192
+  ],
+  "d_goal": 0.2238,
+  "d_eef": 0.2658
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 9,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0049
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0656,
+   0.1996
+  ],
+  "d_goal": 0.2401,
+  "d_eef": 0.2537
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 10,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0098
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0531,
+   0.1922
+  ],
+  "d_goal": 0.2229,
+  "d_eef": 0.2477
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 11,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0106
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0622,
+   0.1909
+  ],
+  "d_goal": 0.2266,
+  "d_eef": 0.2517
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 12,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0013
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0555,
+   0.2083
+  ],
+  "d_goal": 0.247,
+  "d_eef": 0.2473
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 13,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0105
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0493,
+   0.1913
+  ],
+  "d_goal": 0.2371,
+  "d_eef": 0.2471
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 14,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.014
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0563,
+   0.2005
+  ],
+  "d_goal": 0.2281,
+  "d_eef": 0.2426
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 15,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0044
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0589,
+   0.1993
+  ],
+  "d_goal": 0.2365,
+  "d_eef": 0.2406
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 16,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0144
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0488,
+   0.2031
+  ],
+  "d_goal": 0.2257,
+  "d_eef": 0.236
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 17,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0113
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0739,
+   0.2117
+  ],
+  "d_goal": 0.2681,
+  "d_eef": 0.2446
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 18,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0075
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0454,
+   0.2035
+  ],
+  "d_goal": 0.2301,
+  "d_eef": 0.2446
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 19,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0122
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0539,
+   0.1935
+  ],
+  "d_goal": 0.2225,
+  "d_eef": 0.2454
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 20,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0136
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0568,
+   0.2046
+  ],
+  "d_goal": 0.2549,
+  "d_eef": 0.251
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 21,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0049
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0665,
+   0.1905
+  ],
+  "d_goal": 0.2412,
+  "d_eef": 0.2317
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 22,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0129
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0718,
+   0.204
+  ],
+  "d_goal": 0.2619,
+  "d_eef": 0.2387
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 23,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0049
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0671,
+   0.1899
+  ],
+  "d_goal": 0.2411,
+  "d_eef": 0.2424
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 24,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0093
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0663,
+   0.2024
+  ],
+  "d_goal": 0.2393,
+  "d_eef": 0.2557
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 25,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0143
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0641,
+   0.1962
+  ],
+  "d_goal": 0.2523,
+  "d_eef": 0.2408
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 26,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0089
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0697,
+   0.1961
+  ],
+  "d_goal": 0.2509,
+  "d_eef": 0.2481
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 27,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0127
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0588,
+   0.194
+  ],
+  "d_goal": 0.2253,
+  "d_eef": 0.2355
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 28,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0081
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0741,
+   0.1974
+  ],
+  "d_goal": 0.2539,
+  "d_eef": 0.2423
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 29,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.004
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0648,
+   0.2044
+  ],
+  "d_goal": 0.2509,
+  "d_eef": 0.236
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 30,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0084
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.074,
+   0.2023
+  ],
+  "d_goal": 0.2445,
+  "d_eef": 0.247
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 31,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0102
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0475,
+   0.197
+  ],
+  "d_goal": 0.2234,
+  "d_eef": 0.2407
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 32,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0108
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0462,
+   0.2017
+  ],
+  "d_goal": 0.2446,
+  "d_eef": 0.2393
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 33,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0008
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0733,
+   0.2055
+  ],
+  "d_goal": 0.2528,
+  "d_eef": 0.2612
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 34,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0138
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0457,
+   0.1897
+  ],
+  "d_goal": 0.2366,
+  "d_eef": 0.2374
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 35,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0112
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0627,
+   0.2038
+  ],
+  "d_goal": 0.2368,
+  "d_eef": 0.2312
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 36,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0009
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0634,
+   0.2114
+  ],
+  "d_goal": 0.2535,
+  "d_eef": 0.2549
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 37,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0037
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0693,
+   0.1977
+  ],
+  "d_goal": 0.2418,
+  "d_eef": 0.2574
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 38,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.008
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0608,
+   0.1906
+  ],
+  "d_goal": 0.2405,
+  "d_eef": 0.2375
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 39,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0079
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0739,
+   0.1898
+  ],
+  "d_goal": 0.2351,
+  "d_eef": 0.2449
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 40,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0134
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0628,
+   0.1925
+  ],
+  "d_goal": 0.2477,
+  "d_eef": 0.255
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 41,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0097
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0523,
+   0.1886
+  ],
+  "d_goal": 0.2357,
+  "d_eef": 0.2367
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 42,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0149
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.05,
+   0.1971
+  ],
+  "d_goal": 0.246,
+  "d_eef": 0.2333
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 43,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0021
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0521,
+   0.2015
+  ],
+  "d_goal": 0.2364,
+  "d_eef": 0.2423
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 44,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0067
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0586,
+   0.1942
+  ],
+  "d_goal": 0.2302,
+  "d_eef": 0.2424
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 45,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0079
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0703,
+   0.2007
+  ],
+  "d_goal": 0.2543,
+  "d_eef": 0.2573
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 46,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.001
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0572,
+   0.1981
+  ],
+  "d_goal": 0.2373,
+  "d_eef": 0.248
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 47,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   0.0034
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0521,
+   0.2002
+  ],
+  "d_goal": 0.2342,
+  "d_eef": 0.243
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 48,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0081
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0653,
+   0.194
+  ],
+  "d_goal": 0.246,
+  "d_eef": 0.2481
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "init": 49,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.075,
+   -0.0087
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0601,
+   0.1953
+  ],
+  "d_goal": 0.2447,
+  "d_eef": 0.2447
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 0,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0678,
+   0.0239
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0698,
+   0.19
+  ],
+  "d_goal": 0.1662,
+  "d_eef": 0.2896
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 1,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0774,
+   0.0427
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0676,
+   0.2117
+  ],
+  "d_goal": 0.1693,
+  "d_eef": 0.3016
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 2,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0831,
+   0.0202
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.051,
+   0.1887
+  ],
+  "d_goal": 0.1715,
+  "d_eef": 0.3042
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 3,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0701,
+   0.0157
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0712,
+   0.1917
+  ],
+  "d_goal": 0.176,
+  "d_eef": 0.2917
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 4,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0786,
+   0.0315
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0587,
+   0.1944
+  ],
+  "d_goal": 0.1641,
+  "d_eef": 0.3149
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 5,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0593,
+   0.0182
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0554,
+   0.2033
+  ],
+  "d_goal": 0.1852,
+  "d_eef": 0.2718
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 6,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0797,
+   0.0374
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0627,
+   0.1868
+  ],
+  "d_goal": 0.1504,
+  "d_eef": 0.3003
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 7,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0835,
+   0.0429
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0479,
+   0.2009
+  ],
+  "d_goal": 0.1619,
+  "d_eef": 0.3108
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 8,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0601,
+   0.038
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0529,
+   0.1909
+  ],
+  "d_goal": 0.1531,
+  "d_eef": 0.3016
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 9,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.062,
+   0.0378
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0692,
+   0.2028
+  ],
+  "d_goal": 0.1652,
+  "d_eef": 0.2839
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 10,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0741,
+   0.0285
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0563,
+   0.2069
+  ],
+  "d_goal": 0.1793,
+  "d_eef": 0.2985
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 11,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.065,
+   0.0249
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0655,
+   0.1994
+  ],
+  "d_goal": 0.1745,
+  "d_eef": 0.2905
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 12,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.079,
+   0.0277
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0722,
+   0.2038
+  ],
+  "d_goal": 0.1762,
+  "d_eef": 0.3108
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 13,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0577,
+   0.0353
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0554,
+   0.2127
+  ],
+  "d_goal": 0.1775,
+  "d_eef": 0.2853
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 14,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0792,
+   0.0161
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0458,
+   0.2101
+  ],
+  "d_goal": 0.1969,
+  "d_eef": 0.3152
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 15,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0591,
+   0.0268
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0566,
+   0.1907
+  ],
+  "d_goal": 0.1639,
+  "d_eef": 0.2823
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 16,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0559,
+   0.0171
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0497,
+   0.2068
+  ],
+  "d_goal": 0.1898,
+  "d_eef": 0.2755
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 17,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0774,
+   0.0177
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.068,
+   0.2125
+  ],
+  "d_goal": 0.195,
+  "d_eef": 0.2986
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 18,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0624,
+   0.0169
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0585,
+   0.2082
+  ],
+  "d_goal": 0.1913,
+  "d_eef": 0.2929
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 19,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0761,
+   0.0224
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0733,
+   0.1861
+  ],
+  "d_goal": 0.1637,
+  "d_eef": 0.2989
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 20,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0762,
+   0.0155
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0657,
+   0.2134
+  ],
+  "d_goal": 0.1983,
+  "d_eef": 0.297
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 21,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0649,
+   0.0151
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0718,
+   0.206
+  ],
+  "d_goal": 0.191,
+  "d_eef": 0.2813
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 22,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0669,
+   0.0255
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0744,
+   0.1871
+  ],
+  "d_goal": 0.1618,
+  "d_eef": 0.3009
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 23,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0744,
+   0.0265
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0719,
+   0.2037
+  ],
+  "d_goal": 0.1772,
+  "d_eef": 0.3055
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 24,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0778,
+   0.0155
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0464,
+   0.211
+  ],
+  "d_goal": 0.198,
+  "d_eef": 0.3037
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 25,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.059,
+   0.0356
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0734,
+   0.1968
+  ],
+  "d_goal": 0.1619,
+  "d_eef": 0.2802
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 26,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0641,
+   0.0202
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0735,
+   0.2052
+  ],
+  "d_goal": 0.1853,
+  "d_eef": 0.2933
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 27,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0811,
+   0.0427
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0477,
+   0.1954
+  ],
+  "d_goal": 0.1563,
+  "d_eef": 0.3181
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 28,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0594,
+   0.0316
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0496,
+   0.2115
+  ],
+  "d_goal": 0.1802,
+  "d_eef": 0.2955
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 29,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0574,
+   0.0266
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0632,
+   0.19
+  ],
+  "d_goal": 0.1635,
+  "d_eef": 0.278
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 30,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0838,
+   0.0269
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0625,
+   0.2044
+  ],
+  "d_goal": 0.1788,
+  "d_eef": 0.3102
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 31,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0604,
+   0.0383
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0696,
+   0.2017
+  ],
+  "d_goal": 0.1637,
+  "d_eef": 0.2921
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 32,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.071,
+   0.0322
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0506,
+   0.2096
+  ],
+  "d_goal": 0.1786,
+  "d_eef": 0.2928
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 33,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0816,
+   0.0393
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0564,
+   0.2036
+  ],
+  "d_goal": 0.1662,
+  "d_eef": 0.304
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 34,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0755,
+   0.0364
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0534,
+   0.1981
+  ],
+  "d_goal": 0.1632,
+  "d_eef": 0.2954
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 35,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0676,
+   0.0445
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0479,
+   0.1854
+  ],
+  "d_goal": 0.1423,
+  "d_eef": 0.3021
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 36,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.056,
+   0.0259
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0746,
+   0.205
+  ],
+  "d_goal": 0.1801,
+  "d_eef": 0.2882
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 37,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0776,
+   0.0173
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0709,
+   0.1903
+  ],
+  "d_goal": 0.1732,
+  "d_eef": 0.3097
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 38,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0804,
+   0.0449
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0468,
+   0.1896
+  ],
+  "d_goal": 0.1485,
+  "d_eef": 0.3038
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 39,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0631,
+   0.0299
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0687,
+   0.21
+  ],
+  "d_goal": 0.1802,
+  "d_eef": 0.292
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 40,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0551,
+   0.0161
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.049,
+   0.1881
+  ],
+  "d_goal": 0.1721,
+  "d_eef": 0.2815
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 41,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0579,
+   0.0376
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0626,
+   0.2036
+  ],
+  "d_goal": 0.166,
+  "d_eef": 0.2792
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 42,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0556,
+   0.0178
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.051,
+   0.196
+  ],
+  "d_goal": 0.1782,
+  "d_eef": 0.2784
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 43,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0578,
+   0.0189
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0527,
+   0.1969
+  ],
+  "d_goal": 0.1781,
+  "d_eef": 0.2838
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 44,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0823,
+   0.0439
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0589,
+   0.2073
+  ],
+  "d_goal": 0.165,
+  "d_eef": 0.3168
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 45,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0634,
+   0.0192
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0658,
+   0.1979
+  ],
+  "d_goal": 0.1787,
+  "d_eef": 0.2912
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 46,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0748,
+   0.0307
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0471,
+   0.2033
+  ],
+  "d_goal": 0.1749,
+  "d_eef": 0.3033
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 47,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0797,
+   0.0409
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0685,
+   0.1892
+  ],
+  "d_goal": 0.1487,
+  "d_eef": 0.3098
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 48,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0812,
+   0.0354
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.048,
+   0.2069
+  ],
+  "d_goal": 0.1747,
+  "d_eef": 0.3021
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 3,
+  "init": 49,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0655,
+   0.0206
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0709,
+   0.1912
+  ],
+  "d_goal": 0.1706,
+  "d_eef": 0.2815
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 0,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0851,
+   -0.1299
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0551,
+   0.2097
+  ],
+  "d_goal": 0.3409,
+  "d_eef": 0.317
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 1,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0867,
+   -0.1432
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0643,
+   0.1969
+  ],
+  "d_goal": 0.3408,
+  "d_eef": 0.3395
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 2,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.09,
+   -0.1334
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0466,
+   0.1877
+  ],
+  "d_goal": 0.3241,
+  "d_eef": 0.3287
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 3,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0816,
+   -0.1429
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0744,
+   0.2143
+  ],
+  "d_goal": 0.3573,
+  "d_eef": 0.3227
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 4,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0926,
+   -0.1309
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0529,
+   0.2022
+  ],
+  "d_goal": 0.3354,
+  "d_eef": 0.3327
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 5,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.079,
+   -0.1573
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0708,
+   0.1948
+  ],
+  "d_goal": 0.3522,
+  "d_eef": 0.3385
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 6,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0911,
+   -0.1455
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0599,
+   0.2094
+  ],
+  "d_goal": 0.3563,
+  "d_eef": 0.3315
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 7,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0946,
+   -0.1429
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0718,
+   0.2074
+  ],
+  "d_goal": 0.3511,
+  "d_eef": 0.3268
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 8,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0768,
+   -0.1465
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0716,
+   0.2013
+  ],
+  "d_goal": 0.3479,
+  "d_eef": 0.3142
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 9,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0964,
+   -0.1455
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0625,
+   0.2037
+  ],
+  "d_goal": 0.3508,
+  "d_eef": 0.3239
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 10,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0827,
+   -0.1481
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0579,
+   0.2102
+  ],
+  "d_goal": 0.3592,
+  "d_eef": 0.3365
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 11,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0977,
+   -0.1529
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.073,
+   0.1882
+  ],
+  "d_goal": 0.342,
+  "d_eef": 0.349
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 12,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0848,
+   -0.1495
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0543,
+   0.2135
+  ],
+  "d_goal": 0.3643,
+  "d_eef": 0.327
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 13,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0944,
+   -0.144
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0736,
+   0.2129
+  ],
+  "d_goal": 0.3575,
+  "d_eef": 0.3365
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 14,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0936,
+   -0.1333
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0558,
+   0.1902
+  ],
+  "d_goal": 0.3257,
+  "d_eef": 0.3162
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 15,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0874,
+   -0.14
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0629,
+   0.1851
+  ],
+  "d_goal": 0.326,
+  "d_eef": 0.3086
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 16,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.081,
+   -0.1519
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.07,
+   0.1867
+  ],
+  "d_goal": 0.3389,
+  "d_eef": 0.3404
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 17,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0815,
+   -0.1518
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0541,
+   0.1918
+  ],
+  "d_goal": 0.3447,
+  "d_eef": 0.3507
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 18,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0924,
+   -0.1444
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0724,
+   0.202
+  ],
+  "d_goal": 0.347,
+  "d_eef": 0.3304
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 19,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0883,
+   -0.1342
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0473,
+   0.2145
+  ],
+  "d_goal": 0.3511,
+  "d_eef": 0.3283
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 20,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0869,
+   -0.1387
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0701,
+   0.1915
+  ],
+  "d_goal": 0.3307,
+  "d_eef": 0.3447
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 21,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0925,
+   -0.1425
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.053,
+   0.2086
+  ],
+  "d_goal": 0.3533,
+  "d_eef": 0.3359
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 22,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0822,
+   -0.1521
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0596,
+   0.2016
+  ],
+  "d_goal": 0.3545,
+  "d_eef": 0.3301
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 23,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.084,
+   -0.1243
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0528,
+   0.2126
+  ],
+  "d_goal": 0.3383,
+  "d_eef": 0.3278
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 24,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0866,
+   -0.1368
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0727,
+   0.1934
+  ],
+  "d_goal": 0.3305,
+  "d_eef": 0.3232
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 25,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0838,
+   -0.1304
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0501,
+   0.1859
+  ],
+  "d_goal": 0.318,
+  "d_eef": 0.327
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 26,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0938,
+   -0.1356
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0538,
+   0.2055
+  ],
+  "d_goal": 0.3435,
+  "d_eef": 0.3447
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 27,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0937,
+   -0.1365
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0565,
+   0.1886
+  ],
+  "d_goal": 0.3272,
+  "d_eef": 0.3444
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 28,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0784,
+   -0.1601
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0499,
+   0.206
+  ],
+  "d_goal": 0.3672,
+  "d_eef": 0.3199
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 29,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0971,
+   -0.1355
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0704,
+   0.2042
+  ],
+  "d_goal": 0.3407,
+  "d_eef": 0.3466
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 30,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0834,
+   -0.1535
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0455,
+   0.2111
+  ],
+  "d_goal": 0.3666,
+  "d_eef": 0.3388
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 31,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0875,
+   -0.1357
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0536,
+   0.2059
+  ],
+  "d_goal": 0.3432,
+  "d_eef": 0.3207
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 32,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0871,
+   -0.1413
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0729,
+   0.1876
+  ],
+  "d_goal": 0.3292,
+  "d_eef": 0.3202
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 33,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0953,
+   -0.1587
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0519,
+   0.2101
+  ],
+  "d_goal": 0.3714,
+  "d_eef": 0.3382
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 34,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0804,
+   -0.132
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0582,
+   0.2102
+  ],
+  "d_goal": 0.3429,
+  "d_eef": 0.3164
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 35,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0892,
+   -0.1445
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0599,
+   0.2022
+  ],
+  "d_goal": 0.3479,
+  "d_eef": 0.3438
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 36,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.1004,
+   -0.1505
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0599,
+   0.1969
+  ],
+  "d_goal": 0.3497,
+  "d_eef": 0.3301
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 37,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0924,
+   -0.1472
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0462,
+   0.1982
+  ],
+  "d_goal": 0.3485,
+  "d_eef": 0.3252
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 38,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0862,
+   -0.1433
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0692,
+   0.2145
+  ],
+  "d_goal": 0.3582,
+  "d_eef": 0.3495
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 39,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0846,
+   -0.1447
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0476,
+   0.19
+  ],
+  "d_goal": 0.3368,
+  "d_eef": 0.3262
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 40,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.1012,
+   -0.1306
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0456,
+   0.2131
+  ],
+  "d_goal": 0.3481,
+  "d_eef": 0.3284
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 41,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0941,
+   -0.1485
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0601,
+   0.1941
+  ],
+  "d_goal": 0.3443,
+  "d_eef": 0.3385
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 42,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0848,
+   -0.1608
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0575,
+   0.1933
+  ],
+  "d_goal": 0.3551,
+  "d_eef": 0.3361
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 43,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0865,
+   -0.1428
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0605,
+   0.1976
+  ],
+  "d_goal": 0.3414,
+  "d_eef": 0.3179
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 44,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0883,
+   -0.1481
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0553,
+   0.2012
+  ],
+  "d_goal": 0.3509,
+  "d_eef": 0.3277
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 45,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0804,
+   -0.1448
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0575,
+   0.2028
+  ],
+  "d_goal": 0.3484,
+  "d_eef": 0.3223
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 46,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0951,
+   -0.1271
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0478,
+   0.192
+  ],
+  "d_goal": 0.3226,
+  "d_eef": 0.3182
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 47,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0944,
+   -0.1522
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0748,
+   0.2063
+  ],
+  "d_goal": 0.359,
+  "d_eef": 0.341
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 48,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0938,
+   -0.1421
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0637,
+   0.1911
+  ],
+  "d_goal": 0.3346,
+  "d_eef": 0.3433
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 4,
+  "init": 49,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0924,
+   -0.1394
+  ],
+  "obj_z": 1.1506,
+  "goal_xy": [
+   0.0484,
+   0.2008
+  ],
+  "d_goal": 0.343,
+  "d_eef": 0.3195
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 0,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1968,
+   0.2017
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0735,
+   0.1855
+  ],
+  "d_goal": 0.2708,
+  "d_eef": 0.2124
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 1,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.213,
+   0.1892
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0606,
+   0.1924
+  ],
+  "d_goal": 0.2736,
+  "d_eef": 0.2069
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 2,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2075,
+   0.1964
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0499,
+   0.2018
+  ],
+  "d_goal": 0.2575,
+  "d_eef": 0.1992
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 3,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1967,
+   0.1883
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0455,
+   0.2008
+  ],
+  "d_goal": 0.2425,
+  "d_eef": 0.2036
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 4,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.197,
+   0.1894
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0554,
+   0.1902
+  ],
+  "d_goal": 0.2524,
+  "d_eef": 0.2052
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 5,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2074,
+   0.2084
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0518,
+   0.2082
+  ],
+  "d_goal": 0.2592,
+  "d_eef": 0.216
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 6,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1951,
+   0.2131
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.049,
+   0.1881
+  ],
+  "d_goal": 0.2454,
+  "d_eef": 0.2393
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 7,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1888,
+   0.2111
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.066,
+   0.2086
+  ],
+  "d_goal": 0.2547,
+  "d_eef": 0.2382
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 8,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2068,
+   0.1984
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0468,
+   0.1879
+  ],
+  "d_goal": 0.2538,
+  "d_eef": 0.2256
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 9,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1928,
+   0.2054
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0712,
+   0.185
+  ],
+  "d_goal": 0.2647,
+  "d_eef": 0.2144
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 10,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2009,
+   0.2055
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0498,
+   0.188
+  ],
+  "d_goal": 0.2513,
+  "d_eef": 0.2365
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 11,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1942,
+   0.1856
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.062,
+   0.2022
+  ],
+  "d_goal": 0.2567,
+  "d_eef": 0.1762
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 12,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2029,
+   0.2063
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0634,
+   0.1979
+  ],
+  "d_goal": 0.2665,
+  "d_eef": 0.2148
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 13,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1929,
+   0.1867
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0452,
+   0.1964
+  ],
+  "d_goal": 0.2383,
+  "d_eef": 0.2176
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 14,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1855,
+   0.2128
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0694,
+   0.1955
+  ],
+  "d_goal": 0.2555,
+  "d_eef": 0.2443
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 15,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2149,
+   0.1992
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0701,
+   0.204
+  ],
+  "d_goal": 0.285,
+  "d_eef": 0.2225
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 16,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2124,
+   0.2136
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0457,
+   0.2114
+  ],
+  "d_goal": 0.2581,
+  "d_eef": 0.244
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 17,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1889,
+   0.2126
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0536,
+   0.1855
+  ],
+  "d_goal": 0.2439,
+  "d_eef": 0.2208
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 18,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2124,
+   0.1858
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0559,
+   0.1985
+  ],
+  "d_goal": 0.2686,
+  "d_eef": 0.1967
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 19,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2127,
+   0.204
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0607,
+   0.2109
+  ],
+  "d_goal": 0.2734,
+  "d_eef": 0.2458
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 20,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.192,
+   0.1991
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0672,
+   0.2035
+  ],
+  "d_goal": 0.2593,
+  "d_eef": 0.2464
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 21,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1982,
+   0.1996
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0684,
+   0.1936
+  ],
+  "d_goal": 0.2666,
+  "d_eef": 0.2158
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 22,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2141,
+   0.2019
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0621,
+   0.2022
+  ],
+  "d_goal": 0.2762,
+  "d_eef": 0.2438
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 23,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.214,
+   0.2145
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0643,
+   0.1938
+  ],
+  "d_goal": 0.2791,
+  "d_eef": 0.2108
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 24,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.1867,
+   0.1886
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0558,
+   0.2148
+  ],
+  "d_goal": 0.2439,
+  "d_eef": 0.2184
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 25,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1872,
+   0.2007
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0502,
+   0.1896
+  ],
+  "d_goal": 0.2377,
+  "d_eef": 0.2178
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 26,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2026,
+   0.2012
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0661,
+   0.1994
+  ],
+  "d_goal": 0.2687,
+  "d_eef": 0.2158
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 27,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2037,
+   0.2042
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0475,
+   0.1979
+  ],
+  "d_goal": 0.2513,
+  "d_eef": 0.233
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 28,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1906,
+   0.1951
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0625,
+   0.2062
+  ],
+  "d_goal": 0.2534,
+  "d_eef": 0.2099
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 29,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1934,
+   0.1955
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0527,
+   0.2124
+  ],
+  "d_goal": 0.2467,
+  "d_eef": 0.2063
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 30,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.201,
+   0.193
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0574,
+   0.1924
+  ],
+  "d_goal": 0.2584,
+  "d_eef": 0.2003
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 31,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1941,
+   0.2147
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0741,
+   0.1899
+  ],
+  "d_goal": 0.2694,
+  "d_eef": 0.2331
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 32,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1896,
+   0.1852
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0651,
+   0.2141
+  ],
+  "d_goal": 0.2562,
+  "d_eef": 0.2254
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 33,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2086,
+   0.2038
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0494,
+   0.1925
+  ],
+  "d_goal": 0.2582,
+  "d_eef": 0.2431
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 34,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1892,
+   0.1922
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0637,
+   0.2095
+  ],
+  "d_goal": 0.2535,
+  "d_eef": 0.2195
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 35,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1987,
+   0.1947
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0731,
+   0.1983
+  ],
+  "d_goal": 0.2718,
+  "d_eef": 0.2044
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 36,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2044,
+   0.1953
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0496,
+   0.2018
+  ],
+  "d_goal": 0.2541,
+  "d_eef": 0.2203
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 37,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1909,
+   0.1888
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0581,
+   0.1901
+  ],
+  "d_goal": 0.249,
+  "d_eef": 0.2311
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 38,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1862,
+   0.1868
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0677,
+   0.1915
+  ],
+  "d_goal": 0.254,
+  "d_eef": 0.2193
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 39,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2054,
+   0.2086
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0562,
+   0.2129
+  ],
+  "d_goal": 0.2617,
+  "d_eef": 0.2168
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 40,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2006,
+   0.2037
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0682,
+   0.1892
+  ],
+  "d_goal": 0.2692,
+  "d_eef": 0.2405
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 41,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1858,
+   0.1892
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0707,
+   0.2125
+  ],
+  "d_goal": 0.2576,
+  "d_eef": 0.2023
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 42,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1925,
+   0.1905
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0536,
+   0.2017
+  ],
+  "d_goal": 0.2464,
+  "d_eef": 0.2321
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 43,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2025,
+   0.1944
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0504,
+   0.1983
+  ],
+  "d_goal": 0.2529,
+  "d_eef": 0.2288
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 44,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.187,
+   0.1945
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0628,
+   0.2111
+  ],
+  "d_goal": 0.2504,
+  "d_eef": 0.2182
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 45,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2053,
+   0.1856
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0721,
+   0.1866
+  ],
+  "d_goal": 0.2775,
+  "d_eef": 0.2081
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 46,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.196,
+   0.205
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0587,
+   0.207
+  ],
+  "d_goal": 0.2546,
+  "d_eef": 0.2151
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 47,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1872,
+   0.1977
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0563,
+   0.1912
+  ],
+  "d_goal": 0.2435,
+  "d_eef": 0.2304
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 48,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1982,
+   0.2006
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0597,
+   0.1903
+  ],
+  "d_goal": 0.2582,
+  "d_eef": 0.2112
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "init": 49,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2123,
+   0.2126
+  ],
+  "obj_z": 1.08,
+  "goal_xy": [
+   0.0453,
+   0.2087
+  ],
+  "d_goal": 0.2576,
+  "d_eef": 0.2245
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 0,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1373,
+   -0.0704
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0689,
+   0.1944
+  ],
+  "d_goal": 0.2736,
+  "d_eef": 0.4078
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 1,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1215,
+   -0.0782
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0473,
+   0.2103
+  ],
+  "d_goal": 0.2979,
+  "d_eef": 0.3883
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 2,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.1274,
+   -0.0564
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0747,
+   0.2139
+  ],
+  "d_goal": 0.2754,
+  "d_eef": 0.3975
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 3,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.1222,
+   -0.0564
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0486,
+   0.2119
+  ],
+  "d_goal": 0.2782,
+  "d_eef": 0.3868
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 4,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.1158,
+   -0.0603
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0527,
+   0.1923
+  ],
+  "d_goal": 0.2603,
+  "d_eef": 0.3885
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 5,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.1275,
+   -0.0825
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0689,
+   0.197
+  ],
+  "d_goal": 0.2856,
+  "d_eef": 0.4023
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 6,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.1316,
+   -0.07
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0626,
+   0.1944
+  ],
+  "d_goal": 0.2733,
+  "d_eef": 0.4141
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 7,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.1311,
+   -0.0697
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0723,
+   0.1953
+  ],
+  "d_goal": 0.2715,
+  "d_eef": 0.3994
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 8,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1433,
+   -0.0689
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0471,
+   0.2068
+  ],
+  "d_goal": 0.2921,
+  "d_eef": 0.4198
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 9,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.1201,
+   -0.0736
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0457,
+   0.1903
+  ],
+  "d_goal": 0.2742,
+  "d_eef": 0.3917
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 10,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1357,
+   -0.0798
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0568,
+   0.1852
+  ],
+  "d_goal": 0.2765,
+  "d_eef": 0.4167
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 11,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.1276,
+   -0.0711
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0497,
+   0.2134
+  ],
+  "d_goal": 0.295,
+  "d_eef": 0.3977
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 12,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1436,
+   -0.0697
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.072,
+   0.2075
+  ],
+  "d_goal": 0.2863,
+  "d_eef": 0.4167
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 13,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.1154,
+   -0.0719
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0627,
+   0.1968
+  ],
+  "d_goal": 0.2738,
+  "d_eef": 0.3849
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 14,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.1313,
+   -0.0811
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0652,
+   0.2147
+  ],
+  "d_goal": 0.3031,
+  "d_eef": 0.4023
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 15,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1412,
+   -0.0673
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0504,
+   0.1968
+  ],
+  "d_goal": 0.2793,
+  "d_eef": 0.4077
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 16,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1302,
+   -0.0664
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0585,
+   0.2027
+  ],
+  "d_goal": 0.2785,
+  "d_eef": 0.3937
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 17,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.1174,
+   -0.0643
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0555,
+   0.1912
+  ],
+  "d_goal": 0.263,
+  "d_eef": 0.3945
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 18,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.1168,
+   -0.0831
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0721,
+   0.1853
+  ],
+  "d_goal": 0.272,
+  "d_eef": 0.395
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 19,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1277,
+   -0.0565
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0723,
+   0.2017
+  ],
+  "d_goal": 0.2641,
+  "d_eef": 0.3993
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 20,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.1311,
+   -0.0841
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0738,
+   0.1961
+  ],
+  "d_goal": 0.286,
+  "d_eef": 0.404
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 21,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1429,
+   -0.084
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0467,
+   0.1908
+  ],
+  "d_goal": 0.2912,
+  "d_eef": 0.4172
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 22,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1417,
+   -0.0606
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0515,
+   0.2023
+  ],
+  "d_goal": 0.2779,
+  "d_eef": 0.4015
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 23,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1428,
+   -0.0784
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0601,
+   0.2092
+  ],
+  "d_goal": 0.2992,
+  "d_eef": 0.415
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 24,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1421,
+   -0.0577
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0682,
+   0.1948
+  ],
+  "d_goal": 0.2631,
+  "d_eef": 0.412
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 25,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1386,
+   -0.0675
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0567,
+   0.2063
+  ],
+  "d_goal": 0.2858,
+  "d_eef": 0.4133
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 26,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1217,
+   -0.0573
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0545,
+   0.2073
+  ],
+  "d_goal": 0.273,
+  "d_eef": 0.3923
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 27,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.1296,
+   -0.0682
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0585,
+   0.2094
+  ],
+  "d_goal": 0.2865,
+  "d_eef": 0.3959
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 28,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.1321,
+   -0.0643
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0665,
+   0.2101
+  ],
+  "d_goal": 0.2821,
+  "d_eef": 0.403
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 29,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.1221,
+   -0.0803
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0504,
+   0.1975
+  ],
+  "d_goal": 0.287,
+  "d_eef": 0.3936
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 30,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1153,
+   -0.0843
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0554,
+   0.2117
+  ],
+  "d_goal": 0.302,
+  "d_eef": 0.3893
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 31,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1323,
+   -0.0734
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0716,
+   0.1946
+  ],
+  "d_goal": 0.2748,
+  "d_eef": 0.4071
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 32,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1296,
+   -0.0765
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0522,
+   0.2071
+  ],
+  "d_goal": 0.294,
+  "d_eef": 0.4049
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 33,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1208,
+   -0.0792
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0485,
+   0.2108
+  ],
+  "d_goal": 0.2988,
+  "d_eef": 0.4001
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 34,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.1411,
+   -0.0553
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0469,
+   0.2104
+  ],
+  "d_goal": 0.2819,
+  "d_eef": 0.4073
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 35,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.1312,
+   -0.0707
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0746,
+   0.1969
+  ],
+  "d_goal": 0.2735,
+  "d_eef": 0.4067
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 36,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1296,
+   -0.0691
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0525,
+   0.1896
+  ],
+  "d_goal": 0.27,
+  "d_eef": 0.4012
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 37,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.1287,
+   -0.0839
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0567,
+   0.1915
+  ],
+  "d_goal": 0.2846,
+  "d_eef": 0.4037
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 38,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1224,
+   -0.082
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0612,
+   0.2033
+  ],
+  "d_goal": 0.2918,
+  "d_eef": 0.3915
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 39,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.138,
+   -0.0667
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.064,
+   0.2038
+  ],
+  "d_goal": 0.2805,
+  "d_eef": 0.4109
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 40,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1342,
+   -0.0693
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0676,
+   0.187
+  ],
+  "d_goal": 0.2648,
+  "d_eef": 0.4026
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 41,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.1388,
+   -0.0816
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.064,
+   0.1996
+  ],
+  "d_goal": 0.291,
+  "d_eef": 0.4046
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 42,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.1208,
+   -0.0842
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0677,
+   0.2048
+  ],
+  "d_goal": 0.2938,
+  "d_eef": 0.3967
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 43,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1329,
+   -0.074
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0644,
+   0.1922
+  ],
+  "d_goal": 0.2749,
+  "d_eef": 0.404
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 44,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.137,
+   -0.0688
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.067,
+   0.2031
+  ],
+  "d_goal": 0.2807,
+  "d_eef": 0.4117
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 45,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1372,
+   -0.0825
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0519,
+   0.2145
+  ],
+  "d_goal": 0.309,
+  "d_eef": 0.4118
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 46,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1434,
+   -0.079
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0588,
+   0.2015
+  ],
+  "d_goal": 0.293,
+  "d_eef": 0.4106
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 47,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.1221,
+   -0.0748
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0485,
+   0.2085
+  ],
+  "d_goal": 0.2926,
+  "d_eef": 0.3933
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 48,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.1299,
+   -0.0729
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0593,
+   0.2085
+  ],
+  "d_goal": 0.2901,
+  "d_eef": 0.3994
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 6,
+  "init": 49,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.1181,
+   -0.0726
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0734,
+   0.1885
+  ],
+  "d_goal": 0.2649,
+  "d_eef": 0.3836
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 0,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2621,
+   -0.1314
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0601,
+   0.205
+  ],
+  "d_goal": 0.4658,
+  "d_eef": 0.2117
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 1,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2588,
+   -0.1226
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0644,
+   0.2113
+  ],
+  "d_goal": 0.4647,
+  "d_eef": 0.2112
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 2,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2512,
+   -0.155
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0579,
+   0.1937
+  ],
+  "d_goal": 0.4659,
+  "d_eef": 0.2396
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 3,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2664,
+   -0.1341
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.057,
+   0.2005
+  ],
+  "d_goal": 0.4654,
+  "d_eef": 0.2261
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 4,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.255,
+   -0.1331
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0576,
+   0.1937
+  ],
+  "d_goal": 0.4523,
+  "d_eef": 0.2178
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 5,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.263,
+   -0.1403
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0467,
+   0.194
+  ],
+  "d_goal": 0.4557,
+  "d_eef": 0.2219
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 6,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2612,
+   -0.1365
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0678,
+   0.1857
+  ],
+  "d_goal": 0.4605,
+  "d_eef": 0.2146
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 7,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2639,
+   -0.143
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0452,
+   0.1899
+  ],
+  "d_goal": 0.4542,
+  "d_eef": 0.2227
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 8,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2394,
+   -0.1456
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0666,
+   0.1952
+  ],
+  "d_goal": 0.4581,
+  "d_eef": 0.2362
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 9,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2615,
+   -0.1372
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0584,
+   0.1867
+  ],
+  "d_goal": 0.4552,
+  "d_eef": 0.231
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 10,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2681,
+   -0.1554
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0503,
+   0.1853
+  ],
+  "d_goal": 0.4663,
+  "d_eef": 0.2633
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 11,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2775,
+   -0.1473
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0683,
+   0.1983
+  ],
+  "d_goal": 0.4889,
+  "d_eef": 0.2455
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 12,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2641,
+   -0.1233
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0637,
+   0.1901
+  ],
+  "d_goal": 0.4535,
+  "d_eef": 0.1971
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 13,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2656,
+   -0.1579
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0451,
+   0.2069
+  ],
+  "d_goal": 0.4792,
+  "d_eef": 0.2313
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 14,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2521,
+   -0.119
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.068,
+   0.1906
+  ],
+  "d_goal": 0.4453,
+  "d_eef": 0.2045
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 15,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.267,
+   -0.1541
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0745,
+   0.1868
+  ],
+  "d_goal": 0.4825,
+  "d_eef": 0.2229
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 16,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.262,
+   -0.1315
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0487,
+   0.2071
+  ],
+  "d_goal": 0.4595,
+  "d_eef": 0.2242
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 17,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2679,
+   -0.1438
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0713,
+   0.1853
+  ],
+  "d_goal": 0.4726,
+  "d_eef": 0.204
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 18,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2602,
+   -0.1428
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0491,
+   0.1932
+  ],
+  "d_goal": 0.4567,
+  "d_eef": 0.1936
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 19,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2463,
+   -0.13
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0521,
+   0.2101
+  ],
+  "d_goal": 0.4524,
+  "d_eef": 0.2071
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 20,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2608,
+   -0.1391
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0748,
+   0.2102
+  ],
+  "d_goal": 0.4844,
+  "d_eef": 0.2223
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 21,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2489,
+   -0.13
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0558,
+   0.1868
+  ],
+  "d_goal": 0.4396,
+  "d_eef": 0.2209
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 22,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2556,
+   -0.1317
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0596,
+   0.1914
+  ],
+  "d_goal": 0.4514,
+  "d_eef": 0.2259
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 23,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2429,
+   -0.1486
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0583,
+   0.2092
+  ],
+  "d_goal": 0.4678,
+  "d_eef": 0.2363
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 24,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2475,
+   -0.1442
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0715,
+   0.1963
+  ],
+  "d_goal": 0.4666,
+  "d_eef": 0.2025
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 25,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2576,
+   -0.1281
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0587,
+   0.2035
+  ],
+  "d_goal": 0.4582,
+  "d_eef": 0.2231
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 26,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2764,
+   -0.1311
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0485,
+   0.1919
+  ],
+  "d_goal": 0.4581,
+  "d_eef": 0.2058
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 27,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2713,
+   -0.1535
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0605,
+   0.187
+  ],
+  "d_goal": 0.4755,
+  "d_eef": 0.2468
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 28,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2514,
+   -0.1586
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0598,
+   0.1957
+  ],
+  "d_goal": 0.4715,
+  "d_eef": 0.2339
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 29,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2564,
+   -0.1479
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0567,
+   0.2043
+  ],
+  "d_goal": 0.4712,
+  "d_eef": 0.2209
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 30,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2691,
+   -0.1295
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0632,
+   0.1925
+  ],
+  "d_goal": 0.4627,
+  "d_eef": 0.1923
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 31,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.273,
+   -0.1531
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.066,
+   0.1944
+  ],
+  "d_goal": 0.4856,
+  "d_eef": 0.2197
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 32,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2557,
+   -0.1359
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0655,
+   0.1857
+  ],
+  "d_goal": 0.4545,
+  "d_eef": 0.2332
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 33,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2425,
+   -0.1503
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0629,
+   0.2147
+  ],
+  "d_goal": 0.476,
+  "d_eef": 0.2363
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 34,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.267,
+   -0.1427
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0722,
+   0.19
+  ],
+  "d_goal": 0.4751,
+  "d_eef": 0.2437
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 35,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.252,
+   -0.1534
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0647,
+   0.1983
+  ],
+  "d_goal": 0.4733,
+  "d_eef": 0.2349
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 36,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2435,
+   -0.1494
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0576,
+   0.205
+  ],
+  "d_goal": 0.465,
+  "d_eef": 0.2225
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 37,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2461,
+   -0.1457
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0537,
+   0.1946
+  ],
+  "d_goal": 0.4535,
+  "d_eef": 0.2569
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 38,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2685,
+   -0.1234
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0521,
+   0.2121
+  ],
+  "d_goal": 0.464,
+  "d_eef": 0.2052
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 39,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.264,
+   -0.1421
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0528,
+   0.2147
+  ],
+  "d_goal": 0.4771,
+  "d_eef": 0.2049
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 40,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2497,
+   -0.155
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0522,
+   0.2028
+  ],
+  "d_goal": 0.4682,
+  "d_eef": 0.2253
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 41,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2781,
+   -0.155
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0456,
+   0.2148
+  ],
+  "d_goal": 0.4915,
+  "d_eef": 0.2358
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 42,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2652,
+   -0.1535
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0652,
+   0.19
+  ],
+  "d_goal": 0.4766,
+  "d_eef": 0.2621
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 43,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2483,
+   -0.148
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0691,
+   0.1889
+  ],
+  "d_goal": 0.4628,
+  "d_eef": 0.2083
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 44,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2711,
+   -0.1426
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0601,
+   0.1995
+  ],
+  "d_goal": 0.4762,
+  "d_eef": 0.2369
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 45,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2665,
+   -0.1412
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0469,
+   0.211
+  ],
+  "d_goal": 0.4715,
+  "d_eef": 0.211
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 46,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2759,
+   -0.1389
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0692,
+   0.186
+  ],
+  "d_goal": 0.474,
+  "d_eef": 0.2394
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 47,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2454,
+   -0.1193
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0672,
+   0.1894
+  ],
+  "d_goal": 0.4394,
+  "d_eef": 0.2115
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 48,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.2539,
+   -0.1472
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.073,
+   0.2081
+  ],
+  "d_goal": 0.4829,
+  "d_eef": 0.2284
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 7,
+  "init": 49,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.2524,
+   -0.1569
+  ],
+  "obj_z": 1.01,
+  "goal_xy": [
+   0.0474,
+   0.1977
+  ],
+  "d_goal": 0.4644,
+  "d_eef": 0.2681
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 0,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0071,
+   0.2983
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0552,
+   0.189
+  ],
+  "d_goal": 0.1194,
+  "d_eef": 0.4369
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 1,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0167,
+   0.3208
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0472,
+   0.2047
+  ],
+  "d_goal": 0.12,
+  "d_eef": 0.4333
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 2,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.02,
+   0.3091
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0694,
+   0.2109
+  ],
+  "d_goal": 0.1099,
+  "d_eef": 0.46
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 3,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0183,
+   0.3115
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0522,
+   0.2078
+  ],
+  "d_goal": 0.1091,
+  "d_eef": 0.4344
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 4,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0096,
+   0.3095
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0575,
+   0.213
+  ],
+  "d_goal": 0.1078,
+  "d_eef": 0.436
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 5,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0008,
+   0.3019
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0618,
+   0.2114
+  ],
+  "d_goal": 0.1101,
+  "d_eef": 0.4246
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 6,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0062,
+   0.2961
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0666,
+   0.1873
+  ],
+  "d_goal": 0.1244,
+  "d_eef": 0.4076
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 7,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0092,
+   0.3095
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0644,
+   0.2075
+  ],
+  "d_goal": 0.116,
+  "d_eef": 0.4196
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 8,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.0182,
+   0.3219
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.051,
+   0.2031
+  ],
+  "d_goal": 0.1233,
+  "d_eef": 0.459
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 9,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0011,
+   0.3029
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0583,
+   0.1904
+  ],
+  "d_goal": 0.1262,
+  "d_eef": 0.4221
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 10,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.002,
+   0.3234
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0528,
+   0.1884
+  ],
+  "d_goal": 0.1457,
+  "d_eef": 0.428
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 11,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0041,
+   0.3156
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0564,
+   0.2089
+  ],
+  "d_goal": 0.1187,
+  "d_eef": 0.4414
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 12,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0192,
+   0.3136
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0749,
+   0.2098
+  ],
+  "d_goal": 0.1178,
+  "d_eef": 0.4414
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 13,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0049,
+   0.319
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0554,
+   0.2108
+  ],
+  "d_goal": 0.1239,
+  "d_eef": 0.4366
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 14,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0068,
+   0.3089
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0724,
+   0.2068
+  ],
+  "d_goal": 0.1213,
+  "d_eef": 0.431
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 15,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0005,
+   0.3164
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0525,
+   0.2114
+  ],
+  "d_goal": 0.1175,
+  "d_eef": 0.4196
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 16,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.0195,
+   0.322
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0515,
+   0.1971
+  ],
+  "d_goal": 0.1289,
+  "d_eef": 0.4567
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 17,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0107,
+   0.3058
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0538,
+   0.1952
+  ],
+  "d_goal": 0.1187,
+  "d_eef": 0.428
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 18,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0051,
+   0.3125
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0697,
+   0.1882
+  ],
+  "d_goal": 0.1401,
+  "d_eef": 0.4334
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 19,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.0213,
+   0.3121
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0571,
+   0.1929
+  ],
+  "d_goal": 0.1245,
+  "d_eef": 0.4389
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 20,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0072,
+   0.3195
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0691,
+   0.2138
+  ],
+  "d_goal": 0.1225,
+  "d_eef": 0.4356
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 21,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0142,
+   0.3216
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0452,
+   0.192
+  ],
+  "d_goal": 0.1333,
+  "d_eef": 0.4279
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 22,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0052,
+   0.321
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0662,
+   0.1971
+  ],
+  "d_goal": 0.138,
+  "d_eef": 0.4282
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 23,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.0227,
+   0.3037
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0544,
+   0.1867
+  ],
+  "d_goal": 0.1212,
+  "d_eef": 0.4311
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 24,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.0055,
+   0.3038
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.058,
+   0.1912
+  ],
+  "d_goal": 0.1242,
+  "d_eef": 0.4249
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 25,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.0199,
+   0.2982
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0568,
+   0.1932
+  ],
+  "d_goal": 0.1112,
+  "d_eef": 0.4124
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 26,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0018,
+   0.3217
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0615,
+   0.2048
+  ],
+  "d_goal": 0.1329,
+  "d_eef": 0.4243
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 27,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0021,
+   0.3095
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0558,
+   0.1973
+  ],
+  "d_goal": 0.1244,
+  "d_eef": 0.445
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 28,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0242,
+   0.3182
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0527,
+   0.1975
+  ],
+  "d_goal": 0.124,
+  "d_eef": 0.4386
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 29,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.0197,
+   0.3044
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0476,
+   0.2029
+  ],
+  "d_goal": 0.1053,
+  "d_eef": 0.4086
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 30,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0042,
+   0.299
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0647,
+   0.1854
+  ],
+  "d_goal": 0.1287,
+  "d_eef": 0.4275
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 31,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0127,
+   0.308
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0476,
+   0.2002
+  ],
+  "d_goal": 0.1133,
+  "d_eef": 0.4255
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 32,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0242,
+   0.3044
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0591,
+   0.1926
+  ],
+  "d_goal": 0.1171,
+  "d_eef": 0.4429
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 33,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0132,
+   0.3019
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0607,
+   0.2054
+  ],
+  "d_goal": 0.1075,
+  "d_eef": 0.4252
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 34,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.005,
+   0.3222
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0458,
+   0.2107
+  ],
+  "d_goal": 0.1187,
+  "d_eef": 0.4192
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 35,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0088,
+   0.3018
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0727,
+   0.2119
+  ],
+  "d_goal": 0.1103,
+  "d_eef": 0.3993
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 36,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0197,
+   0.3034
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0741,
+   0.2053
+  ],
+  "d_goal": 0.1122,
+  "d_eef": 0.4293
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 37,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.005,
+   0.3085
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0554,
+   0.188
+  ],
+  "d_goal": 0.1306,
+  "d_eef": 0.42
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 38,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0043,
+   0.3126
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0704,
+   0.2085
+  ],
+  "d_goal": 0.1282,
+  "d_eef": 0.4266
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 39,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0046,
+   0.3148
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0595,
+   0.2025
+  ],
+  "d_goal": 0.1293,
+  "d_eef": 0.4259
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 40,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0104,
+   0.3122
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0718,
+   0.1926
+  ],
+  "d_goal": 0.1344,
+  "d_eef": 0.442
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 41,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0195,
+   0.3236
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0573,
+   0.1873
+  ],
+  "d_goal": 0.1414,
+  "d_eef": 0.4346
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 42,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0008,
+   0.3175
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0703,
+   0.2081
+  ],
+  "d_goal": 0.1305,
+  "d_eef": 0.4386
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 43,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0194,
+   0.3086
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0544,
+   0.2012
+  ],
+  "d_goal": 0.113,
+  "d_eef": 0.4453
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 44,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0077,
+   0.3162
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0489,
+   0.2052
+  ],
+  "d_goal": 0.1185,
+  "d_eef": 0.4497
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 45,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0101,
+   0.3225
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0472,
+   0.2039
+  ],
+  "d_goal": 0.1242,
+  "d_eef": 0.4352
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 46,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0012,
+   0.3
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0631,
+   0.2129
+  ],
+  "d_goal": 0.1083,
+  "d_eef": 0.4249
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 47,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0124,
+   0.3001
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0719,
+   0.2094
+  ],
+  "d_goal": 0.1085,
+  "d_eef": 0.4264
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 48,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0055,
+   0.3029
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0679,
+   0.1933
+  ],
+  "d_goal": 0.1261,
+  "d_eef": 0.425
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "init": 49,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0188,
+   0.3154
+  ],
+  "obj_z": 0.97,
+  "goal_xy": [
+   0.0593,
+   0.2077
+  ],
+  "d_goal": 0.1151,
+  "d_eef": 0.4437
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 0,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0389,
+   -0.2651
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0482,
+   0.2147
+  ],
+  "d_goal": 0.4799,
+  "d_eef": 0.3635
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 1,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0555,
+   -0.2755
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0465,
+   0.1969
+  ],
+  "d_goal": 0.4725,
+  "d_eef": 0.3972
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 2,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0148,
+   -0.2921
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0742,
+   0.2007
+  ],
+  "d_goal": 0.4964,
+  "d_eef": 0.3751
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 3,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0301,
+   -0.2933
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.06,
+   0.2046
+  ],
+  "d_goal": 0.4989,
+  "d_eef": 0.3646
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 4,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0449,
+   -0.2605
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0515,
+   0.1879
+  ],
+  "d_goal": 0.4485,
+  "d_eef": 0.3572
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 5,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.057,
+   -0.282
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.075,
+   0.2031
+  ],
+  "d_goal": 0.4854,
+  "d_eef": 0.3914
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 6,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0074,
+   -0.2834
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0542,
+   0.2118
+  ],
+  "d_goal": 0.4974,
+  "d_eef": 0.3786
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 7,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0116,
+   -0.269
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0453,
+   0.1953
+  ],
+  "d_goal": 0.4678,
+  "d_eef": 0.3591
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 8,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0479,
+   -0.3039
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0548,
+   0.1995
+  ],
+  "d_goal": 0.5034,
+  "d_eef": 0.4039
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 9,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0261,
+   -0.2985
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0738,
+   0.2052
+  ],
+  "d_goal": 0.506,
+  "d_eef": 0.4024
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 10,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0172,
+   -0.2641
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0573,
+   0.1857
+  ],
+  "d_goal": 0.4516,
+  "d_eef": 0.3635
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 11,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0484,
+   -0.2768
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0719,
+   0.2034
+  ],
+  "d_goal": 0.4808,
+  "d_eef": 0.3781
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 12,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0413,
+   -0.2725
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0734,
+   0.1883
+  ],
+  "d_goal": 0.462,
+  "d_eef": 0.3778
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 13,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0472,
+   -0.2862
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0674,
+   0.2048
+  ],
+  "d_goal": 0.4914,
+  "d_eef": 0.3801
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 14,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0045,
+   -0.2838
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0563,
+   0.2057
+  ],
+  "d_goal": 0.4932,
+  "d_eef": 0.3557
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 15,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0445,
+   -0.275
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0727,
+   0.203
+  ],
+  "d_goal": 0.4788,
+  "d_eef": 0.3804
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 16,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0072,
+   -0.2661
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0489,
+   0.2143
+  ],
+  "d_goal": 0.4837,
+  "d_eef": 0.3459
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 17,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0366,
+   -0.2568
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0686,
+   0.2095
+  ],
+  "d_goal": 0.4674,
+  "d_eef": 0.376
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 18,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.0516,
+   -0.2735
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0457,
+   0.1969
+  ],
+  "d_goal": 0.4704,
+  "d_eef": 0.3847
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 19,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0416,
+   -0.2998
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.056,
+   0.2082
+  ],
+  "d_goal": 0.5082,
+  "d_eef": 0.4044
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 20,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0026,
+   -0.2645
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0704,
+   0.1856
+  ],
+  "d_goal": 0.456,
+  "d_eef": 0.3445
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 21,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0173,
+   -0.3002
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0663,
+   0.1854
+  ],
+  "d_goal": 0.488,
+  "d_eef": 0.3776
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 22,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0519,
+   -0.2632
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0665,
+   0.2078
+  ],
+  "d_goal": 0.4712,
+  "d_eef": 0.355
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 23,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0084,
+   -0.2813
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0676,
+   0.2068
+  ],
+  "d_goal": 0.4918,
+  "d_eef": 0.3332
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 24,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0239,
+   -0.2936
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.059,
+   0.2126
+  ],
+  "d_goal": 0.5074,
+  "d_eef": 0.3971
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 25,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0324,
+   -0.2952
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0486,
+   0.2101
+  ],
+  "d_goal": 0.5056,
+  "d_eef": 0.4046
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 26,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0201,
+   -0.2621
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0654,
+   0.2147
+  ],
+  "d_goal": 0.479,
+  "d_eef": 0.3568
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 27,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0333,
+   -0.3033
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0474,
+   0.2031
+  ],
+  "d_goal": 0.5066,
+  "d_eef": 0.39
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 28,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0544,
+   -0.3056
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0579,
+   0.2075
+  ],
+  "d_goal": 0.5131,
+  "d_eef": 0.4022
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 29,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0609,
+   -0.2964
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0514,
+   0.1921
+  ],
+  "d_goal": 0.4887,
+  "d_eef": 0.392
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 30,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0168,
+   -0.2906
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0544,
+   0.1932
+  ],
+  "d_goal": 0.4853,
+  "d_eef": 0.3752
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 31,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0066,
+   -0.2847
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0558,
+   0.1935
+  ],
+  "d_goal": 0.4807,
+  "d_eef": 0.3573
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 32,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.003,
+   -0.2727
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0632,
+   0.1868
+  ],
+  "d_goal": 0.4642,
+  "d_eef": 0.345
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 33,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0202,
+   -0.2768
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.05,
+   0.1997
+  ],
+  "d_goal": 0.4774,
+  "d_eef": 0.3553
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 34,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.019,
+   -0.2718
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0574,
+   0.2001
+  ],
+  "d_goal": 0.4735,
+  "d_eef": 0.3606
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 35,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0203,
+   -0.2849
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0509,
+   0.2083
+  ],
+  "d_goal": 0.4983,
+  "d_eef": 0.3524
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 36,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0488,
+   -0.2726
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0592,
+   0.197
+  ],
+  "d_goal": 0.4697,
+  "d_eef": 0.3819
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 37,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0614,
+   -0.2893
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.059,
+   0.1934
+  ],
+  "d_goal": 0.4826,
+  "d_eef": 0.4069
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 38,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0078,
+   -0.295
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0518,
+   0.2012
+  ],
+  "d_goal": 0.4981,
+  "d_eef": 0.3576
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 39,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0081,
+   -0.2838
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0487,
+   0.2135
+  ],
+  "d_goal": 0.5006,
+  "d_eef": 0.3498
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 40,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0232,
+   -0.2782
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0682,
+   0.2134
+  ],
+  "d_goal": 0.5,
+  "d_eef": 0.3104
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 41,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.0249,
+   -0.3081
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0491,
+   0.2065
+  ],
+  "d_goal": 0.52,
+  "d_eef": 0.3551
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 42,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0449,
+   -0.2566
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0634,
+   0.2141
+  ],
+  "d_goal": 0.4711,
+  "d_eef": 0.3599
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 43,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0372,
+   -0.2768
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0547,
+   0.1919
+  ],
+  "d_goal": 0.469,
+  "d_eef": 0.3625
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 44,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0086,
+   -0.2706
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0735,
+   0.1983
+  ],
+  "d_goal": 0.4733,
+  "d_eef": 0.3604
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 45,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0429,
+   -0.2795
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0565,
+   0.19
+  ],
+  "d_goal": 0.4697,
+  "d_eef": 0.3882
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 46,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0327,
+   -0.2775
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0497,
+   0.1965
+  ],
+  "d_goal": 0.4743,
+  "d_eef": 0.3765
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 47,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.022,
+   -0.281
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0496,
+   0.1983
+  ],
+  "d_goal": 0.4801,
+  "d_eef": 0.3621
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 48,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0447,
+   -0.2667
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.07,
+   0.1961
+  ],
+  "d_goal": 0.4635,
+  "d_eef": 0.353
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 9,
+  "init": 49,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.0186,
+   -0.2807
+  ],
+  "obj_z": 1.2315,
+  "goal_xy": [
+   0.0535,
+   0.1943
+  ],
+  "d_goal": 0.4804,
+  "d_eef": 0.3569
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 0,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0148,
+   0.2521
+  ],
+  "d_goal": 0.5103,
+  "d_eef": 0.3262
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 1,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0145,
+   0.2573
+  ],
+  "d_goal": 0.5151,
+  "d_eef": 0.3416
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 2,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0088,
+   0.2533
+  ],
+  "d_goal": 0.5099,
+  "d_eef": 0.3506
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 3,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0122,
+   0.2512
+  ],
+  "d_goal": 0.5087,
+  "d_eef": 0.3481
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 4,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0076,
+   0.248
+  ],
+  "d_goal": 0.5007,
+  "d_eef": 0.3596
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 5,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.012,
+   0.2609
+  ],
+  "d_goal": 0.518,
+  "d_eef": 0.3329
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 6,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0134,
+   0.2588
+  ],
+  "d_goal": 0.5101,
+  "d_eef": 0.3604
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 7,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.005,
+   0.2668
+  ],
+  "d_goal": 0.5197,
+  "d_eef": 0.3447
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 8,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.001,
+   0.2721
+  ],
+  "d_goal": 0.5257,
+  "d_eef": 0.3267
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 9,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0101,
+   0.2651
+  ],
+  "d_goal": 0.5215,
+  "d_eef": 0.3651
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 10,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0148,
+   0.2589
+  ],
+  "d_goal": 0.5167,
+  "d_eef": 0.3392
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 11,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0035,
+   0.2534
+  ],
+  "d_goal": 0.5087,
+  "d_eef": 0.3414
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 12,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0045,
+   0.2543
+  ],
+  "d_goal": 0.5097,
+  "d_eef": 0.3436
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 13,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0101,
+   0.2482
+  ],
+  "d_goal": 0.5052,
+  "d_eef": 0.3379
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 14,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0011,
+   0.2506
+  ],
+  "d_goal": 0.5048,
+  "d_eef": 0.3286
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 15,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.011,
+   0.2569
+  ],
+  "d_goal": 0.5139,
+  "d_eef": 0.3391
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 16,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0028,
+   0.2746
+  ],
+  "d_goal": 0.5278,
+  "d_eef": 0.3458
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 17,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0115,
+   0.2734
+  ],
+  "d_goal": 0.5299,
+  "d_eef": 0.3444
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 18,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0118,
+   0.2729
+  ],
+  "d_goal": 0.5242,
+  "d_eef": 0.3647
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 19,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0067,
+   0.2739
+  ],
+  "d_goal": 0.5293,
+  "d_eef": 0.361
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 20,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0092,
+   0.2567
+  ],
+  "d_goal": 0.5132,
+  "d_eef": 0.3604
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 21,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0072,
+   0.2477
+  ],
+  "d_goal": 0.504,
+  "d_eef": 0.347
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 22,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0044,
+   0.2696
+  ],
+  "d_goal": 0.5246,
+  "d_eef": 0.3566
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 23,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0053,
+   0.2475
+  ],
+  "d_goal": 0.5008,
+  "d_eef": 0.3332
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 24,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0072,
+   0.273
+  ],
+  "d_goal": 0.5252,
+  "d_eef": 0.3582
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 25,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0114,
+   0.2677
+  ],
+  "d_goal": 0.5244,
+  "d_eef": 0.3534
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 26,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0033,
+   0.2677
+  ],
+  "d_goal": 0.5209,
+  "d_eef": 0.3192
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 27,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0146,
+   0.2549
+  ],
+  "d_goal": 0.506,
+  "d_eef": 0.3461
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 28,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0075,
+   0.2526
+  ],
+  "d_goal": 0.5089,
+  "d_eef": 0.3395
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 29,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.01,
+   0.271
+  ],
+  "d_goal": 0.5273,
+  "d_eef": 0.3416
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 30,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0013,
+   0.2676
+  ],
+  "d_goal": 0.5219,
+  "d_eef": 0.3413
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 31,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0009,
+   0.2636
+  ],
+  "d_goal": 0.5179,
+  "d_eef": 0.3303
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 32,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0032,
+   0.247
+  ],
+  "d_goal": 0.5008,
+  "d_eef": 0.3404
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 33,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0086,
+   0.2695
+  ],
+  "d_goal": 0.5255,
+  "d_eef": 0.3385
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 34,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0006,
+   0.2531
+  ],
+  "d_goal": 0.5074,
+  "d_eef": 0.3494
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 35,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0088,
+   0.2527
+  ],
+  "d_goal": 0.5093,
+  "d_eef": 0.345
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 36,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0147,
+   0.2566
+  ],
+  "d_goal": 0.5076,
+  "d_eef": 0.3377
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 37,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0092,
+   0.2554
+  ],
+  "d_goal": 0.5076,
+  "d_eef": 0.3347
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 38,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0004,
+   0.2722
+  ],
+  "d_goal": 0.5262,
+  "d_eef": 0.3441
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 39,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0048,
+   0.2588
+  ],
+  "d_goal": 0.5142,
+  "d_eef": 0.3374
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 40,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.012,
+   0.2532
+  ],
+  "d_goal": 0.5049,
+  "d_eef": 0.3408
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 41,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0004,
+   0.2709
+  ],
+  "d_goal": 0.5249,
+  "d_eef": 0.3534
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 42,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0032,
+   0.249
+  ],
+  "d_goal": 0.5028,
+  "d_eef": 0.3214
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 43,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0066,
+   0.2597
+  ],
+  "d_goal": 0.5155,
+  "d_eef": 0.3512
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 44,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   -0.0037,
+   0.2672
+  ],
+  "d_goal": 0.5204,
+  "d_eef": 0.356
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 45,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0058,
+   0.2716
+  ],
+  "d_goal": 0.5268,
+  "d_eef": 0.3312
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 46,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0096,
+   0.2516
+  ],
+  "d_goal": 0.5084,
+  "d_eef": 0.3262
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 47,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0007,
+   0.2699
+  ],
+  "d_goal": 0.524,
+  "d_eef": 0.3314
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 48,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0034,
+   0.2638
+  ],
+  "d_goal": 0.5187,
+  "d_eef": 0.3571
+ },
+ {
+  "suite": "libero_object",
+  "task": 0,
+  "init": 49,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.12,
+   -0.24
+  ],
+  "obj_z": 0.015,
+  "goal_xy": [
+   0.0007,
+   0.2603
+  ],
+  "d_goal": 0.5146,
+  "d_eef": 0.3169
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 0,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0431,
+   -0.0901
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0043,
+   0.2544
+  ],
+  "d_goal": 0.3478,
+  "d_eef": 0.3107
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 1,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0482,
+   -0.1056
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0052,
+   0.248
+  ],
+  "d_goal": 0.3562,
+  "d_eef": 0.311
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 2,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0408,
+   -0.0995
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0019,
+   0.2487
+  ],
+  "d_goal": 0.3508,
+  "d_eef": 0.3188
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 3,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0533,
+   -0.102
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0101,
+   0.2494
+  ],
+  "d_goal": 0.3541,
+  "d_eef": 0.3272
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 4,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0573,
+   -0.0937
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.015,
+   0.2462
+  ],
+  "d_goal": 0.3425,
+  "d_eef": 0.3238
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 5,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0447,
+   -0.0952
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0,
+   0.2697
+  ],
+  "d_goal": 0.3677,
+  "d_eef": 0.3123
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 6,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0422,
+   -0.1039
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0143,
+   0.2724
+  ],
+  "d_goal": 0.3805,
+  "d_eef": 0.3253
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 7,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0407,
+   -0.1041
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0026,
+   0.2615
+  ],
+  "d_goal": 0.3675,
+  "d_eef": 0.2989
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 8,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0421,
+   -0.0995
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0035,
+   0.2528
+  ],
+  "d_goal": 0.3553,
+  "d_eef": 0.311
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 9,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0596,
+   -0.1067
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.012,
+   0.2658
+  ],
+  "d_goal": 0.3755,
+  "d_eef": 0.3344
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 10,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0434,
+   -0.1072
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0148,
+   0.2479
+  ],
+  "d_goal": 0.3563,
+  "d_eef": 0.3211
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 11,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.059,
+   -0.0949
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0149,
+   0.2689
+  ],
+  "d_goal": 0.3665,
+  "d_eef": 0.3246
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 12,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.046,
+   -0.1091
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0112,
+   0.2746
+  ],
+  "d_goal": 0.388,
+  "d_eef": 0.3241
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 13,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0448,
+   -0.1036
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0075,
+   0.2531
+  ],
+  "d_goal": 0.3587,
+  "d_eef": 0.3148
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 14,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.0581,
+   -0.0925
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0135,
+   0.2478
+  ],
+  "d_goal": 0.3478,
+  "d_eef": 0.3194
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 15,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0519,
+   -0.107
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0121,
+   0.2549
+  ],
+  "d_goal": 0.3676,
+  "d_eef": 0.3219
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 16,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0404,
+   -0.094
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0085,
+   0.2626
+  ],
+  "d_goal": 0.358,
+  "d_eef": 0.3216
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 17,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   0.0551,
+   -0.1088
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0117,
+   0.2681
+  ],
+  "d_goal": 0.3795,
+  "d_eef": 0.3277
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 18,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0522,
+   -0.0999
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0049,
+   0.246
+  ],
+  "d_goal": 0.3506,
+  "d_eef": 0.3201
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 19,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0521,
+   -0.1056
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0,
+   0.2543
+  ],
+  "d_goal": 0.3637,
+  "d_eef": 0.337
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 20,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0438,
+   -0.0985
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0011,
+   0.263
+  ],
+  "d_goal": 0.3642,
+  "d_eef": 0.3104
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 21,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0409,
+   -0.0927
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0096,
+   0.2682
+  ],
+  "d_goal": 0.3623,
+  "d_eef": 0.2978
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 22,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0574,
+   -0.1078
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0088,
+   0.2663
+  ],
+  "d_goal": 0.3799,
+  "d_eef": 0.316
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 23,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0524,
+   -0.097
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0124,
+   0.2688
+  ],
+  "d_goal": 0.3679,
+  "d_eef": 0.3136
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 24,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.059,
+   -0.0947
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0088,
+   0.2593
+  ],
+  "d_goal": 0.3604,
+  "d_eef": 0.3205
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 25,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0517,
+   -0.1061
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0074,
+   0.2578
+  ],
+  "d_goal": 0.3687,
+  "d_eef": 0.3125
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 26,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0401,
+   -0.1034
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0006,
+   0.2522
+  ],
+  "d_goal": 0.3578,
+  "d_eef": 0.3062
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 27,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0498,
+   -0.0935
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0038,
+   0.2502
+  ],
+  "d_goal": 0.3478,
+  "d_eef": 0.3281
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 28,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0503,
+   -0.0968
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0078,
+   0.2741
+  ],
+  "d_goal": 0.3754,
+  "d_eef": 0.3189
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 29,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0526,
+   -0.1082
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0117,
+   0.2672
+  ],
+  "d_goal": 0.3776,
+  "d_eef": 0.3325
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 30,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.051,
+   -0.0992
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0084,
+   0.2626
+  ],
+  "d_goal": 0.3667,
+  "d_eef": 0.3159
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 31,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0469,
+   -0.1068
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0071,
+   0.2565
+  ],
+  "d_goal": 0.3655,
+  "d_eef": 0.3095
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 32,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0594,
+   -0.0921
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0007,
+   0.261
+  ],
+  "d_goal": 0.3581,
+  "d_eef": 0.3174
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 33,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0552,
+   -0.0982
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0055,
+   0.2453
+  ],
+  "d_goal": 0.3488,
+  "d_eef": 0.3166
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 34,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0557,
+   -0.0966
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0148,
+   0.259
+  ],
+  "d_goal": 0.3625,
+  "d_eef": 0.3356
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 35,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0452,
+   -0.0963
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0062,
+   0.2724
+  ],
+  "d_goal": 0.3723,
+  "d_eef": 0.3047
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 36,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0516,
+   -0.0934
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0149,
+   0.2659
+  ],
+  "d_goal": 0.3654,
+  "d_eef": 0.318
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 37,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0485,
+   -0.0962
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0142,
+   0.2655
+  ],
+  "d_goal": 0.3671,
+  "d_eef": 0.3172
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 38,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0551,
+   -0.0981
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0094,
+   0.2583
+  ],
+  "d_goal": 0.3622,
+  "d_eef": 0.3189
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 39,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0483,
+   -0.1028
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0096,
+   0.2463
+  ],
+  "d_goal": 0.3512,
+  "d_eef": 0.3083
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 40,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0469,
+   -0.0965
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0094,
+   0.2545
+  ],
+  "d_goal": 0.3555,
+  "d_eef": 0.3115
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 41,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0498,
+   -0.0919
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0017,
+   0.2668
+  ],
+  "d_goal": 0.3619,
+  "d_eef": 0.3111
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 42,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0489,
+   -0.0967
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0145,
+   0.2556
+  ],
+  "d_goal": 0.354,
+  "d_eef": 0.3186
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 43,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0535,
+   -0.1029
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0117,
+   0.2501
+  ],
+  "d_goal": 0.3556,
+  "d_eef": 0.3098
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 44,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0512,
+   -0.0901
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0094,
+   0.2638
+  ],
+  "d_goal": 0.3564,
+  "d_eef": 0.3246
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 45,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0414,
+   -0.0993
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.006,
+   0.248
+  ],
+  "d_goal": 0.3505,
+  "d_eef": 0.3247
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 46,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.0519,
+   -0.092
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0046,
+   0.259
+  ],
+  "d_goal": 0.3542,
+  "d_eef": 0.3194
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 47,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0583,
+   -0.0933
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0145,
+   0.2693
+  ],
+  "d_goal": 0.3653,
+  "d_eef": 0.3303
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 48,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.0552,
+   -0.1045
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0138,
+   0.2684
+  ],
+  "d_goal": 0.3792,
+  "d_eef": 0.3074
+ },
+ {
+  "suite": "libero_object",
+  "task": 3,
+  "init": 49,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.0501,
+   -0.1077
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0011,
+   0.2549
+  ],
+  "d_goal": 0.3662,
+  "d_eef": 0.3136
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 0,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1196,
+   -0.2444
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0118,
+   0.2642
+  ],
+  "d_goal": 0.5252,
+  "d_eef": 0.357
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 1,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1186,
+   -0.2417
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0057,
+   0.2685
+  ],
+  "d_goal": 0.5251,
+  "d_eef": 0.3823
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 2,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1225,
+   -0.236
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0076,
+   0.2706
+  ],
+  "d_goal": 0.5195,
+  "d_eef": 0.35
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 3,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1211,
+   -0.2402
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0043,
+   0.2468
+  ],
+  "d_goal": 0.5029,
+  "d_eef": 0.3751
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 4,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1238,
+   -0.2395
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0026,
+   0.2538
+  ],
+  "d_goal": 0.5093,
+  "d_eef": 0.3625
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 5,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1212,
+   -0.244
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0062,
+   0.2656
+  ],
+  "d_goal": 0.5253,
+  "d_eef": 0.356
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 6,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.117,
+   -0.2406
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0029,
+   0.2619
+  ],
+  "d_goal": 0.5153,
+  "d_eef": 0.3689
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 7,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.119,
+   -0.236
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0055,
+   0.2458
+  ],
+  "d_goal": 0.4976,
+  "d_eef": 0.3362
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 8,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.119,
+   -0.2365
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0149,
+   0.2464
+  ],
+  "d_goal": 0.5011,
+  "d_eef": 0.3651
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 9,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1235,
+   -0.2448
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0123,
+   0.2644
+  ],
+  "d_goal": 0.5212,
+  "d_eef": 0.3643
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 10,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.119,
+   -0.2436
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0003,
+   0.2507
+  ],
+  "d_goal": 0.5084,
+  "d_eef": 0.3666
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 11,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1171,
+   -0.2374
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0049,
+   0.272
+  ],
+  "d_goal": 0.5216,
+  "d_eef": 0.341
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 12,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1242,
+   -0.2351
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0063,
+   0.2722
+  ],
+  "d_goal": 0.5238,
+  "d_eef": 0.3693
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 13,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1176,
+   -0.2392
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0078,
+   0.2636
+  ],
+  "d_goal": 0.5147,
+  "d_eef": 0.3539
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 14,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1193,
+   -0.2415
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0064,
+   0.2564
+  ],
+  "d_goal": 0.5135,
+  "d_eef": 0.3595
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 15,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1204,
+   -0.2355
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0031,
+   0.2654
+  ],
+  "d_goal": 0.5159,
+  "d_eef": 0.3604
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 16,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.1184,
+   -0.2383
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0094,
+   0.2496
+  ],
+  "d_goal": 0.4999,
+  "d_eef": 0.3701
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 17,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1197,
+   -0.2423
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0064,
+   0.2599
+  ],
+  "d_goal": 0.5177,
+  "d_eef": 0.3705
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 18,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.123,
+   -0.2389
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0012,
+   0.2488
+  ],
+  "d_goal": 0.5033,
+  "d_eef": 0.3429
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 19,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1221,
+   -0.2366
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0138,
+   0.2638
+  ],
+  "d_goal": 0.5185,
+  "d_eef": 0.3717
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 20,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1206,
+   -0.242
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0083,
+   0.247
+  ],
+  "d_goal": 0.5058,
+  "d_eef": 0.3468
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 21,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1242,
+   -0.238
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0132,
+   0.2639
+  ],
+  "d_goal": 0.5203,
+  "d_eef": 0.3552
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 22,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1176,
+   -0.2424
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0001,
+   0.2612
+  ],
+  "d_goal": 0.5172,
+  "d_eef": 0.3396
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 23,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1224,
+   -0.244
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0033,
+   0.264
+  ],
+  "d_goal": 0.5217,
+  "d_eef": 0.341
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 24,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1236,
+   -0.2376
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0094,
+   0.2466
+  ],
+  "d_goal": 0.5021,
+  "d_eef": 0.3675
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 25,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1172,
+   -0.2391
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0138,
+   0.2624
+  ],
+  "d_goal": 0.5121,
+  "d_eef": 0.3528
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 26,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1171,
+   -0.2409
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0034,
+   0.2643
+  ],
+  "d_goal": 0.5179,
+  "d_eef": 0.3636
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 27,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1154,
+   -0.2437
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0016,
+   0.2662
+  ],
+  "d_goal": 0.5231,
+  "d_eef": 0.3599
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 28,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1193,
+   -0.2389
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0043,
+   0.2656
+  ],
+  "d_goal": 0.5174,
+  "d_eef": 0.3732
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 29,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1177,
+   -0.2351
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0132,
+   0.2526
+  ],
+  "d_goal": 0.505,
+  "d_eef": 0.3757
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 30,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.123,
+   -0.2417
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0029,
+   0.2665
+  ],
+  "d_goal": 0.5236,
+  "d_eef": 0.3432
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 31,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1192,
+   -0.2425
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0002,
+   0.2471
+  ],
+  "d_goal": 0.5039,
+  "d_eef": 0.3682
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 32,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.1158,
+   -0.2435
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0043,
+   0.2558
+  ],
+  "d_goal": 0.5116,
+  "d_eef": 0.3926
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 33,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1192,
+   -0.2354
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0004,
+   0.2633
+  ],
+  "d_goal": 0.5127,
+  "d_eef": 0.33
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 34,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1213,
+   -0.2436
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0121,
+   0.2688
+  ],
+  "d_goal": 0.5295,
+  "d_eef": 0.3609
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 35,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1171,
+   -0.2403
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0085,
+   0.2585
+  ],
+  "d_goal": 0.5105,
+  "d_eef": 0.3582
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 36,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1157,
+   -0.242
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0102,
+   0.2656
+  ],
+  "d_goal": 0.523,
+  "d_eef": 0.3693
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 37,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1181,
+   -0.2402
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.005,
+   0.2628
+  ],
+  "d_goal": 0.5178,
+  "d_eef": 0.3586
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 38,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.1155,
+   -0.2441
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0008,
+   0.2487
+  ],
+  "d_goal": 0.5063,
+  "d_eef": 0.3801
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 39,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1227,
+   -0.2385
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0117,
+   0.2656
+  ],
+  "d_goal": 0.5161,
+  "d_eef": 0.3536
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 40,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1194,
+   -0.2394
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0146,
+   0.2595
+  ],
+  "d_goal": 0.5097,
+  "d_eef": 0.3687
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 41,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1218,
+   -0.2415
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0009,
+   0.2526
+  ],
+  "d_goal": 0.5091,
+  "d_eef": 0.3585
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 42,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1215,
+   -0.2437
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0027,
+   0.2452
+  ],
+  "d_goal": 0.5031,
+  "d_eef": 0.3572
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 43,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1234,
+   -0.2358
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.007,
+   0.2661
+  ],
+  "d_goal": 0.5153,
+  "d_eef": 0.357
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 44,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   -0.1155,
+   -0.2442
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0107,
+   0.263
+  ],
+  "d_goal": 0.5179,
+  "d_eef": 0.3783
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 45,
+  "ok_s": true,
+  "ok_d": false,
+  "obj_xy": [
+   -0.1227,
+   -0.2391
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   -0.0022,
+   0.2468
+  ],
+  "d_goal": 0.5006,
+  "d_eef": 0.3601
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 46,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1176,
+   -0.2393
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.006,
+   0.2561
+  ],
+  "d_goal": 0.5106,
+  "d_eef": 0.3637
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 47,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1229,
+   -0.2437
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0036,
+   0.253
+  ],
+  "d_goal": 0.5126,
+  "d_eef": 0.3655
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 48,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1193,
+   -0.2442
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.003,
+   0.2586
+  ],
+  "d_goal": 0.5174,
+  "d_eef": 0.3524
+ },
+ {
+  "suite": "libero_object",
+  "task": 6,
+  "init": 49,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   -0.1166,
+   -0.2441
+  ],
+  "obj_z": -0.005,
+  "goal_xy": [
+   0.0055,
+   0.2456
+  ],
+  "d_goal": 0.5047,
+  "d_eef": 0.3627
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 0,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0041,
+   0.2507
+  ],
+  "d_goal": 0.3549,
+  "d_eef": 0.3144
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 1,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.013,
+   0.2545
+  ],
+  "d_goal": 0.36,
+  "d_eef": 0.305
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 2,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0026,
+   0.2471
+  ],
+  "d_goal": 0.3503,
+  "d_eef": 0.3263
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 3,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0063,
+   0.2456
+  ],
+  "d_goal": 0.3484,
+  "d_eef": 0.3176
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 4,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0041,
+   0.269
+  ],
+  "d_goal": 0.3718,
+  "d_eef": 0.3304
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 5,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0019,
+   0.2679
+  ],
+  "d_goal": 0.3711,
+  "d_eef": 0.319
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 6,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0106,
+   0.2664
+  ],
+  "d_goal": 0.3714,
+  "d_eef": 0.3179
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 7,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0131,
+   0.247
+  ],
+  "d_goal": 0.3489,
+  "d_eef": 0.3321
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 8,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0016,
+   0.2642
+  ],
+  "d_goal": 0.3674,
+  "d_eef": 0.3065
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 9,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0095,
+   0.2652
+  ],
+  "d_goal": 0.3674,
+  "d_eef": 0.3213
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 10,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0122,
+   0.2734
+  ],
+  "d_goal": 0.3786,
+  "d_eef": 0.315
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 11,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0058,
+   0.2465
+  ],
+  "d_goal": 0.3493,
+  "d_eef": 0.3226
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 12,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0143,
+   0.2619
+  ],
+  "d_goal": 0.3637,
+  "d_eef": 0.3269
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 13,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0041,
+   0.2695
+  ],
+  "d_goal": 0.3734,
+  "d_eef": 0.3254
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 14,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0021,
+   0.2607
+  ],
+  "d_goal": 0.3638,
+  "d_eef": 0.3178
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 15,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0102,
+   0.2501
+  ],
+  "d_goal": 0.3552,
+  "d_eef": 0.2991
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 16,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0091,
+   0.2562
+  ],
+  "d_goal": 0.3585,
+  "d_eef": 0.3137
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 17,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0127,
+   0.2653
+  ],
+  "d_goal": 0.3672,
+  "d_eef": 0.3105
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 18,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0036,
+   0.2671
+  ],
+  "d_goal": 0.371,
+  "d_eef": 0.3179
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 19,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0089,
+   0.2676
+  ],
+  "d_goal": 0.3723,
+  "d_eef": 0.3151
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 20,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0085,
+   0.2545
+  ],
+  "d_goal": 0.3569,
+  "d_eef": 0.3069
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 21,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0013,
+   0.2483
+  ],
+  "d_goal": 0.3521,
+  "d_eef": 0.3064
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 22,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0147,
+   0.2559
+  ],
+  "d_goal": 0.3617,
+  "d_eef": 0.3223
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 23,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0105,
+   0.2494
+  ],
+  "d_goal": 0.3517,
+  "d_eef": 0.3144
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 24,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0054,
+   0.2579
+  ],
+  "d_goal": 0.3622,
+  "d_eef": 0.3204
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 25,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0101,
+   0.2729
+  ],
+  "d_goal": 0.3777,
+  "d_eef": 0.3152
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 26,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.009,
+   0.2638
+  ],
+  "d_goal": 0.3662,
+  "d_eef": 0.3309
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 27,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0122,
+   0.2557
+  ],
+  "d_goal": 0.3577,
+  "d_eef": 0.3267
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 28,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.003,
+   0.2548
+  ],
+  "d_goal": 0.3587,
+  "d_eef": 0.3151
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 29,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0017,
+   0.2689
+  ],
+  "d_goal": 0.372,
+  "d_eef": 0.3186
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 30,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0062,
+   0.2734
+  ],
+  "d_goal": 0.3759,
+  "d_eef": 0.3244
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 31,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0017,
+   0.2489
+  ],
+  "d_goal": 0.3527,
+  "d_eef": 0.3195
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 32,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.003,
+   0.2726
+  ],
+  "d_goal": 0.3764,
+  "d_eef": 0.3183
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 33,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0042,
+   0.2691
+  ],
+  "d_goal": 0.3731,
+  "d_eef": 0.3069
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 34,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0093,
+   0.2496
+  ],
+  "d_goal": 0.3546,
+  "d_eef": 0.3179
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 35,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0074,
+   0.2528
+  ],
+  "d_goal": 0.3554,
+  "d_eef": 0.3114
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 36,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0049,
+   0.2484
+  ],
+  "d_goal": 0.3527,
+  "d_eef": 0.3134
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 37,
+  "ok_s": true,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0103,
+   0.2525
+  ],
+  "d_goal": 0.3577,
+  "d_eef": 0.3223
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 38,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0043,
+   0.2559
+  ],
+  "d_goal": 0.3588,
+  "d_eef": 0.3047
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 39,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0139,
+   0.2698
+  ],
+  "d_goal": 0.3752,
+  "d_eef": 0.3033
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 40,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0057,
+   0.2457
+  ],
+  "d_goal": 0.3502,
+  "d_eef": 0.317
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 41,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0005,
+   0.2653
+  ],
+  "d_goal": 0.3687,
+  "d_eef": 0.3267
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 42,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0034,
+   0.2656
+  ],
+  "d_goal": 0.3685,
+  "d_eef": 0.3141
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 43,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0035,
+   0.2727
+  ],
+  "d_goal": 0.3756,
+  "d_eef": 0.3207
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 44,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0108,
+   0.2715
+  ],
+  "d_goal": 0.3736,
+  "d_eef": 0.3214
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 45,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0149,
+   0.2749
+  ],
+  "d_goal": 0.3805,
+  "d_eef": 0.3071
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 46,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0076,
+   0.2566
+  ],
+  "d_goal": 0.3591,
+  "d_eef": 0.3172
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 47,
+  "ok_s": false,
+  "ok_d": false,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0033,
+   0.2616
+  ],
+  "d_goal": 0.3655,
+  "d_eef": 0.32
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 48,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   0.0125,
+   0.2657
+  ],
+  "d_goal": 0.3676,
+  "d_eef": 0.3326
+ },
+ {
+  "suite": "libero_object",
+  "task": 9,
+  "init": 49,
+  "ok_s": false,
+  "ok_d": true,
+  "obj_xy": [
+   0.05,
+   -0.1
+  ],
+  "obj_z": 0.035,
+  "goal_xy": [
+   -0.0143,
+   0.2572
+  ],
+  "d_goal": 0.363,
+  "d_eef": 0.3141
+ }
+]

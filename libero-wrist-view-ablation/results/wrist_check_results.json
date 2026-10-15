@@ -1,0 +1,26 @@
+{
+ "libero_spatial|task2|wrist": {
+  "suite": "libero_spatial",
+  "task": 2,
+  "lang": "pick up the black bowl from table center and place it on the plate",
+  "succ": 49,
+  "n": 50,
+  "rate": 98.0
+ },
+ "libero_spatial|task7|wrist": {
+  "suite": "libero_spatial",
+  "task": 7,
+  "lang": "pick up the black bowl on the stove and place it on the plate",
+  "succ": 44,
+  "n": 50,
+  "rate": 88.0
+ },
+ "libero_object|task9|wrist": {
+  "suite": "libero_object",
+  "task": 9,
+  "lang": "pick up the orange juice and place it in the basket",
+  "succ": 5,
+  "n": 50,
+  "rate": 10.0
+ }
+}

@@ -1,0 +1,10 @@
+mujoco==3.3.7
+robosuite==1.4.0
+torch>=2.0
+torchvision>=0.15
+opencv-python
+h5py
+numpy
+matplotlib
+imageio
+imageio-ffmpeg

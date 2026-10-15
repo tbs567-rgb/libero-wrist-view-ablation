@@ -1,0 +1,67 @@
+{
+ "task0|single": {
+  "task": 0,
+  "lang": "pick up the alphabet soup and place it in the basket",
+  "dual": false,
+  "succ": 11,
+  "n": 50,
+  "rate": 22.0,
+  "note": "修正渲染(sRGB)后复评；批次内存旧值 2.0 系覆盖错误"
+ },
+ "task0|dual": {
+  "task": 0,
+  "lang": "pick up the alphabet soup and place it in the basket",
+  "dual": true,
+  "succ": 44,
+  "n": 50,
+  "rate": 88.0
+ },
+ "task3|single": {
+  "task": 3,
+  "lang": "pick up the bbq sauce and place it in the basket",
+  "dual": false,
+  "succ": 30,
+  "n": 50,
+  "rate": 60.0
+ },
+ "task3|dual": {
+  "task": 3,
+  "lang": "pick up the bbq sauce and place it in the basket",
+  "dual": true,
+  "succ": 46,
+  "n": 50,
+  "rate": 92.0
+ },
+ "task6|single": {
+  "task": 6,
+  "lang": "pick up the butter and place it in the basket",
+  "dual": false,
+  "succ": 6,
+  "n": 50,
+  "rate": 12.0
+ },
+ "task6|dual": {
+  "task": 6,
+  "lang": "pick up the butter and place it in the basket",
+  "dual": true,
+  "succ": 45,
+  "n": 50,
+  "rate": 90.0
+ },
+ "task9|single": {
+  "task": 9,
+  "lang": "pick up the orange juice and place it in the basket",
+  "dual": false,
+  "succ": 3,
+  "n": 50,
+  "rate": 6.0
+ },
+ "task9|dual": {
+  "task": 9,
+  "lang": "pick up the orange juice and place it in the basket",
+  "dual": true,
+  "succ": 47,
+  "n": 50,
+  "rate": 94.0
+ }
+}

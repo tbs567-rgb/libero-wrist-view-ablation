@@ -1,0 +1,72 @@
+{
+ "task0": {
+  "lang": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+  "succ": 33,
+  "total": 50,
+  "rate": 66.0,
+  "render": 256
+ },
+ "task2": {
+  "lang": "pick up the black bowl from table center and place it on the plate",
+  "succ": 22,
+  "total": 50,
+  "rate": 44.0,
+  "render": 256
+ },
+ "task3": {
+  "lang": "pick up the black bowl on the cookie box and place it on the plate",
+  "succ": 29,
+  "total": 50,
+  "rate": 58.0,
+  "render": 256
+ },
+ "task1": {
+  "lang": "pick up the black bowl next to the ramekin and place it on the plate",
+  "succ": 38,
+  "total": 50,
+  "rate": 76.0,
+  "render": 256
+ },
+ "task4": {
+  "lang": "pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate",
+  "succ": 50,
+  "total": 50,
+  "rate": 100.0,
+  "render": 256
+ },
+ "task5": {
+  "lang": "pick up the black bowl on the ramekin and place it on the plate",
+  "succ": 41,
+  "total": 50,
+  "rate": 82.0,
+  "render": 256
+ },
+ "task6": {
+  "lang": "pick up the black bowl next to the cookie box and place it on the plate",
+  "succ": 17,
+  "total": 50,
+  "rate": 34.0,
+  "render": 256
+ },
+ "task7": {
+  "lang": "pick up the black bowl on the stove and place it on the plate",
+  "succ": 47,
+  "total": 50,
+  "rate": 94.0,
+  "render": 256
+ },
+ "task8": {
+  "lang": "pick up the black bowl next to the plate and place it on the plate",
+  "succ": 39,
+  "total": 50,
+  "rate": 78.0,
+  "render": 256
+ },
+ "task9": {
+  "lang": "pick up the black bowl on the wooden cabinet and place it on the plate",
+  "succ": 22,
+  "total": 50,
+  "rate": 44.0,
+  "render": 256
+ }
+}
